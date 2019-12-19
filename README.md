@@ -33,7 +33,9 @@ Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disor
 ## Learning and Teaching Resources
 - Caroline Jack and Monica Bulger. 2017. *Lexicon of Lies: Teaching Resources*, Data & Society Research Institute. [`PDF`](https://datasociety.net/pubs/oh/DataAndSociety_TeachingGuide_LexiconofLies.pdf) [`Web`](https://datasociety.net/output/lexicon-of-lies/)
 
-- [The CRAAP Test](https://fullfact.org/toolkit/) (Meriam Library, California State University, Chico): a simple, practical framework for evaluating the credibility of information. It involves asking questions about the information's **C**urrency, **R**elevance, **A**uthority, **A**ccuracy, and **P**urpose. [`PDF`](https://library.csuchico.edu/sites/default/files/craap-test.pdf)
+- Sarah Blakeslee. 2004. *The CRAAP Test*, LOEX Quarterly: Volume 31: Issue 3, Article 4. [`PDF`](https://commons.emich.edu/cgi/viewcontent.cgi?article=1009&context=loexquarterly) 
+
+ The CRAAP Test is a simple, practical framework for evaluating the credibility of information. It involves asking questions about the information's **C**urrency, **R**elevance, **A**uthority, **A**ccuracy, and **P**urpose. [`PDF`](https://library.csuchico.edu/sites/default/files/craap-test.pdf) [`Web`](https://library.csuchico.edu/help/source-or-information-good)
 
 - [The Full Fact Toolkit](https://fullfact.org/toolkit/) (Full Fact): a collection of simple tools for identifying misleading videos, images, headlines, etc.
 
