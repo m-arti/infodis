@@ -29,3 +29,12 @@ of Misinformation in News Articles. [`Data`](https://dataverse.harvard.edu/datas
 Caroline Jack. 2017. *Lexicon of Lies: Terms for Problematic Information*, Data & Society Research Institute. [`PDF`](https://datasociety.net/pubs/oh/DataAndSociety_LexiconofLies.pdf) [`Web`](https://datasociety.net/output/lexicon-of-lies/)
 
 Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disorder: The Essential Glossary*, First Draft. [`PDF`](https://firstdraftnews.org/wp-content/uploads/2018/07/infoDisorder_glossary.pdf) [`Web`](https://medium.com/1st-draft/information-disorder-part-1-the-essential-glossary-19953c544fe3)
+
+## Learning and Teaching Resources
+- Caroline Jack and Monica Bulger. 2017. *Lexicon of Lies: Teaching Resources*, Data & Society Research Institute. [`PDF`](https://datasociety.net/pubs/oh/DataAndSociety_TeachingGuide_LexiconofLies.pdf) [`Web`](https://datasociety.net/output/lexicon-of-lies/)
+
+- [The CRAAP Test](https://fullfact.org/toolkit/) (Meriam Library, California State University, Chico): a simple, practical framework for evaluating the credibility of information. It involves asking questions about the information's **C**urrency, **R**elevance, **A**uthority, **A**ccuracy, and **P**urpose. [`PDF`](https://library.csuchico.edu/sites/default/files/craap-test.pdf)
+
+- [The Full Fact Toolkit](https://fullfact.org/toolkit/) (Full Fact): a collection of simple tools for identifying misleading videos, images, headlines, etc.
+
+- [News & Media Literacy Curriculum Resources](https://www.commonsense.org/education/toolkit/news-and-media-literacy) (Common Sense): learning resources and classroom activities for Grades K-2, 3-5, 6-8 and 9-12.
