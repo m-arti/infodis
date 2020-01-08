@@ -43,3 +43,29 @@ Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disor
 - [The Full Fact Toolkit](https://fullfact.org/toolkit/) (Full Fact): a collection of simple tools for identifying misleading videos, images, headlines, etc.
 
 - [News & Media Literacy Curriculum Resources](https://www.commonsense.org/education/toolkit/news-and-media-literacy) (Common Sense): learning resources and classroom activities for Grades K-2, 3-5, 6-8 and 9-12.
+
+## Surveys and Reports
+Niall J. Conroy, Victoria L. Rubin, and Yimin Chen. 2015. Automatic deception detection: Methods for finding fake news. [`DOI`](https://doi.org/10.1002/pra2.2015.145052010082) [`PDF`](https://asistdl.onlinelibrary.wiley.com/doi/epdf/10.1002/pra2.2015.145052010082)
+
+Georgios Gravanis, Athena Vakali, Konstantinos Diamantaras, and Panagiotis Karadais. 2019. Behind the cues: A benchmarking study for fake news detection. [`DOI`](https://doi.org/10.1016/j.eswa.2019.03.036) [`PDF`](https://datalab.csd.auth.gr/wp-content/uploads/publications/GRAVANIS2019201.pdf)
+
+Alice Marwick and Rebecca Lewis. 2017. Media Manipulation and Disinformation Online, Data & Society Research Institute. [`PDF`](https://www.datasociety.net/pubs/oh/DataAndSociety_MediaManipulationAndDisinformationOnline.pdf) [`Web`](https://datasociety.net/output/media-manipulation-and-disinfo-online/)
+
+Ray Oshikawa, Jing Qian, and William Yang Wang. 2018. A Survey on Natural Language Processing for Fake News Detection. arXiv:1811.00770. [`PDF`](https://arxiv.org/pdf/1811.00770.pdf)
+
+Shivam B. Parikh and Pradeep K. Atrey. 2018. Media-Rich Fake News Detection: A Survey. [`DOI`](https://doi.org/10.1109/MIPR.2018.00093) [`PDF`](https://www.albany.edu/~sp191221/publications/Fake_Media_Rich_News_Detection_A_Survey.pdf)
+
+Francesco Pierri and Stefano Ceri. 2019. False News On Social Media: A Data-Driven Survey. arXiv:1902.07539. [`PDF`](https://arxiv.org/pdf/1902.07539.pdf)
+
+Karishma Sharma, Feng Qian, He Jiang, Natali Ruchansky, Ming Zhang, and Yan Liu. 2019. Combating fake news: A survey on identification and mitigation techniques. arXiv:1901.06437. [`PDF`](https://arxiv.org/pdf/1901.06437.pdf)
+
+Kai Shu, Amy Sliva, Suhang Wang, Jiliang Tang, and Huan Liu. 2017. Fake News Detection on Social Media. arXiv:1708.01967. [`PDF`](https://arxiv.org/pdf/1708.01967.pdf)
+
+Savvas Zannettou, Michael Sirivianos, Jeremy Blackburn, and Nicolas Kourtellis. 2019. The web of false information: Rumors, fake news, hoaxes, clickbait, and various other shenanigans. arXiv:1804.03461. [`PDF`](https://arxiv.org/pdf/1804.03461.pdf)
+
+Xinyi Zhou and Reza Zafarani. 2018. Fake News: A Survey of Research, Detection Methods, and Opportunities. arXiv:1812.00315. [`PDF`](https://arxiv.org/pdf/1812.00315.pdf)
+
+Arkaitz Zubiaga, Ahmet Aker, Kalina Bontcheva, Maria Liakata, and Rob Procter. 2018. Detection and resolution of rumours in social media: A survey. arXiv:1704.00656. [`PDF`](https://arxiv.org/pdf/1704.00656.pdf)
+
+## Tutorials
+Liang Wu, Giovanni Luca Ciamplaglia, and Huan Liu. 2017. *Mining Misinformation in Social Media: Understanding Its Rampant Spread, Harm, and Intervention*. IEEE International Conference on Data Mining ICDM 2017. [`Part 1`](https://www.youtube.com/watch?v=lapFDmz_xGI) [`Part 2`](https://www.youtube.com/watch?v=JAuoPq-VQTA) [`Slides`](http://www.public.asu.edu/~liangwu1/icdm2017_tutorial_misinformation.pdf) [`Web`](http://www.public.asu.edu/~liangwu1/ICDM17MisinformationTutorial.html)
