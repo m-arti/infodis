@@ -1,6 +1,9 @@
 # Information Disorder Detection: Datasets &amp; Resources
 This is a curated list of resources for research on various kinds of information disorder, such as fake news, rumours and satire.
 
+## Conferences & Workshops
+David Lazer, Matthew Baum, Nir Grinberg, Lisa Friedland, Kenneth Joseph, Will Hobbs, and Carolina Mattsson. May 2017 (Conference held February 17-18, 2017). Combating Fake News: An Agenda for Research and Action. Cambridge, MA, USA. [`Schedule`](https://shorensteincenter.org/wp-content/uploads/2017/02/Fake-News-Conference_Final-Program.pdf) [`PDF`](https://pdfs.semanticscholar.org/6db0/f7c6023efae688253dc95617e11108547e7e.pdf) [`Web`](https://shorensteincenter.org/combating-fake-news-agenda-for-research/)
+
 ## Datasets
 - **BuzzFace**: A News Veracity Dataset with Facebook User Commentary and Egos. [`Data`](https://github.com/gsantia/BuzzFace) [`Paper`](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17825/17046)
 
