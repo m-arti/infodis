@@ -2,12 +2,12 @@
 This is a curated list of resources for research on various kinds of information disorder, such as fake news, rumours and satire.
 
 ## Contents
-1. [Conferences and Workshops](##Conferences-and-Workshops)
-2. [Datasets](##Datasets)
-3. [Glossaries](##Glossaries)
-4. [Learning and Teaching Resources](##Learning-and-Teaching-Resources)
-5. [Surveys and Reports](##Surveys-and-Reports)
-6. [Tutorials](##Tutorials)
+1. [Conferences and Workshops](#Conferences-and-Workshops)
+2. [Datasets](#Datasets)
+3. [Glossaries](#Glossaries)
+4. [Learning and Teaching Resources](#Learning-and-Teaching-Resources)
+5. [Surveys and Reports](#Surveys-and-Reports)
+6. [Tutorials](#Tutorials)
 
 ## <a name="Conferences-and-Workshops"></a> Conferences and Workshops
 David Lazer, Matthew Baum, Nir Grinberg, Lisa Friedland, Kenneth Joseph, Will Hobbs, and Carolina Mattsson. May 2017 (Conference held February 17-18, 2017). Combating Fake News: An Agenda for Research and Action. Cambridge, MA, USA. [`Schedule`](https://shorensteincenter.org/wp-content/uploads/2017/02/Fake-News-Conference_Final-Program.pdf) [`PDF`](https://pdfs.semanticscholar.org/6db0/f7c6023efae688253dc95617e11108547e7e.pdf) [`Web`](https://shorensteincenter.org/combating-fake-news-agenda-for-research/)
