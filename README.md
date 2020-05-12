@@ -1,10 +1,18 @@
 # Information Disorder Detection: Datasets &amp; Resources
 This is a curated list of resources for research on various kinds of information disorder, such as fake news, rumours and satire.
 
-## Conferences & Workshops
+## Contents
+1. [Conferences and Workshops](##Conferences-and-Workshops)
+2. [Datasets](##Datasets)
+3. [Glossaries](##Glossaries)
+4. [Learning and Teaching Resources](##Learning-and-Teaching-Resources)
+5. [Surveys and Reports](##Surveys-and-Reports)
+6. [Tutorials](##Tutorials)
+
+## <a name="Conferences-and-Workshops"></a> Conferences and Workshops
 David Lazer, Matthew Baum, Nir Grinberg, Lisa Friedland, Kenneth Joseph, Will Hobbs, and Carolina Mattsson. May 2017 (Conference held February 17-18, 2017). Combating Fake News: An Agenda for Research and Action. Cambridge, MA, USA. [`Schedule`](https://shorensteincenter.org/wp-content/uploads/2017/02/Fake-News-Conference_Final-Program.pdf) [`PDF`](https://pdfs.semanticscholar.org/6db0/f7c6023efae688253dc95617e11108547e7e.pdf) [`Web`](https://shorensteincenter.org/combating-fake-news-agenda-for-research/)
 
-## Datasets
+## <a name="Datasets"></a> Datasets
 - **BuzzFace**: A News Veracity Dataset with Facebook User Commentary and Egos. [`Data`](https://github.com/gsantia/BuzzFace) [`Paper`](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17825/17046)
 
 - **BuzzFeed-Webis Fake News Corpus 2016**: Consists moslty of political news, fact-checked by journalists at BuzzFeed. The data was sourced from the Facebook pages of 9 _verified_ publishers (6 hyperpartisan, 3 left-wing and 3 right-wing), one week before the 2016 US elections. [`Data`](https://zenodo.org/record/1239675) [`Paper`](https://arxiv.org/pdf/1702.05638.pdf)
@@ -28,15 +36,15 @@ of Misinformation in News Articles. [`Data`](https://dataverse.harvard.edu/datas
 
 - **SVDC: Dataset for fake news and articles detection**: news on conflict in Syria. Articles were verified using information provided by the Syrian Violations Documentation Centre. [`Data`](https://zenodo.org/record/2532642)
 
-## Glossaries
+## <a name="Glossaries"></a> Glossaries
 Caroline Jack. 2017. *Lexicon of Lies: Terms for Problematic Information*, Data & Society Research Institute. [`PDF`](https://datasociety.net/pubs/oh/DataAndSociety_LexiconofLies.pdf) [`Web`](https://datasociety.net/output/lexicon-of-lies/)
 
 Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disorder: The Essential Glossary*, First Draft. [`PDF`](https://firstdraftnews.org/wp-content/uploads/2018/07/infoDisorder_glossary.pdf) [`Web`](https://medium.com/1st-draft/information-disorder-part-1-the-essential-glossary-19953c544fe3)
 
-## Learning and Teaching Resources
+## <a name="Learning-and-Teaching-Resources"></a> Learning and Teaching Resources
 - Caroline Jack and Monica Bulger. 2017. *Lexicon of Lies: Teaching Resources*, Data & Society Research Institute. [`PDF`](https://datasociety.net/pubs/oh/DataAndSociety_TeachingGuide_LexiconofLies.pdf) [`Web`](https://datasociety.net/output/lexicon-of-lies/)
 
-- Sarah Blakeslee. 2004. *The CRAAP Test*, LOEX Quarterly: Volume 31: Issue 3, Article 4. [`PDF`](https://commons.emich.edu/cgi/viewcontent.cgi?article=1009&context=loexquarterly) 
+- Sarah Blakeslee. 2004. *The CRAAP Test*, LOEX Quarterly: Volume 31: Issue 3, Article 4. [`PDF`](https://commons.emich.edu/cgi/viewcontent.cgi?article=1009&context=loexquarterly)
 
  The CRAAP Test is a simple, practical framework for evaluating the credibility of information. It involves asking questions about the information's **C**urrency, **R**elevance, **A**uthority, **A**ccuracy, and **P**urpose. [`PDF`](https://library.csuchico.edu/sites/default/files/craap-test.pdf) [`Web`](https://library.csuchico.edu/help/source-or-information-good)
 
@@ -44,7 +52,7 @@ Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disor
 
 - [News & Media Literacy Curriculum Resources](https://www.commonsense.org/education/toolkit/news-and-media-literacy) (Common Sense): learning resources and classroom activities for Grades K-2, 3-5, 6-8 and 9-12.
 
-## Surveys and Reports
+## <a name="Surveys-and-Reports"></a> Surveys and Reports
 Niall J. Conroy, Victoria L. Rubin, and Yimin Chen. 2015. Automatic deception detection: Methods for finding fake news. [`DOI`](https://doi.org/10.1002/pra2.2015.145052010082) [`PDF`](https://asistdl.onlinelibrary.wiley.com/doi/epdf/10.1002/pra2.2015.145052010082)
 
 Georgios Gravanis, Athena Vakali, Konstantinos Diamantaras, and Panagiotis Karadais. 2019. Behind the cues: A benchmarking study for fake news detection. [`DOI`](https://doi.org/10.1016/j.eswa.2019.03.036) [`PDF`](https://datalab.csd.auth.gr/wp-content/uploads/publications/GRAVANIS2019201.pdf)
@@ -67,5 +75,5 @@ Xinyi Zhou and Reza Zafarani. 2018. Fake News: A Survey of Research, Detection M
 
 Arkaitz Zubiaga, Ahmet Aker, Kalina Bontcheva, Maria Liakata, and Rob Procter. 2018. Detection and resolution of rumours in social media: A survey. arXiv:1704.00656. [`PDF`](https://arxiv.org/pdf/1704.00656.pdf)
 
-## Tutorials
+## <a name="Tutorials"></a> Tutorials
 Liang Wu, Giovanni Luca Ciamplaglia, and Huan Liu. 2017. *Mining Misinformation in Social Media: Understanding Its Rampant Spread, Harm, and Intervention*. IEEE International Conference on Data Mining ICDM 2017. [`Part 1`](https://www.youtube.com/watch?v=lapFDmz_xGI) [`Part 2`](https://www.youtube.com/watch?v=JAuoPq-VQTA) [`Slides`](http://www.public.asu.edu/~liangwu1/icdm2017_tutorial_misinformation.pdf) [`Web`](http://www.public.asu.edu/~liangwu1/ICDM17MisinformationTutorial.html)
