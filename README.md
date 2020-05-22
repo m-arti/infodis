@@ -5,12 +5,14 @@ This is a curated list of resources for research on various kinds of information
 1. [Conferences and Workshops](##Conferences-and-Workshops)
 2. [Datasets](##Datasets)
 3. [Glossaries](##Glossaries)
-4. [Learning and Teaching Resources](##Learning-and-Teaching-Resources)
+4. [News Literacy](##News-Literacy)
 5. [Surveys and Reports](##Surveys-and-Reports)
 6. [Tutorials](##Tutorials)
 
 ## <a name="Conferences-and-Workshops"></a> Conferences and Workshops
 David Lazer, Matthew Baum, Nir Grinberg, Lisa Friedland, Kenneth Joseph, Will Hobbs, and Carolina Mattsson. May 2017 (Conference held February 17-18, 2017). Combating Fake News: An Agenda for Research and Action. Cambridge, MA, USA. [`Schedule`](https://shorensteincenter.org/wp-content/uploads/2017/02/Fake-News-Conference_Final-Program.pdf) [`PDF`](https://pdfs.semanticscholar.org/6db0/f7c6023efae688253dc95617e11108547e7e.pdf) [`Web`](https://shorensteincenter.org/combating-fake-news-agenda-for-research/)
+
+---
 
 ## <a name="Datasets"></a> Datasets
 - **BuzzFace**: A News Veracity Dataset with Facebook User Commentary and Egos. [`Data`](https://github.com/gsantia/BuzzFace) [`Paper`](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17825/17046)
@@ -36,21 +38,83 @@ of Misinformation in News Articles. [`Data`](https://dataverse.harvard.edu/datas
 
 - **SVDC: Dataset for fake news and articles detection**: news on conflict in Syria. Articles were verified using information provided by the Syrian Violations Documentation Centre. [`Data`](https://zenodo.org/record/2532642)
 
+---
+
 ## <a name="Glossaries"></a> Glossaries
 Caroline Jack. 2017. *Lexicon of Lies: Terms for Problematic Information*, Data & Society Research Institute. [`PDF`](https://datasociety.net/pubs/oh/DataAndSociety_LexiconofLies.pdf) [`Web`](https://datasociety.net/output/lexicon-of-lies/)
 
 Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disorder: The Essential Glossary*, First Draft. [`PDF`](https://firstdraftnews.org/wp-content/uploads/2018/07/infoDisorder_glossary.pdf) [`Web`](https://medium.com/1st-draft/information-disorder-part-1-the-essential-glossary-19953c544fe3)
 
-## <a name="Learning-and-Teaching-Resources"></a> Learning and Teaching Resources
+---
+
+## <a name="News-Literacy"></a> News Literacy
+
+### <a name="Books"></a> Books
+- [Calling Bullshit](https://callingbullshit.org/), Carl T. Bergstrom & Jevin D. West (Coming August 4th, 2020)
+
+### <a name="Courses"></a> Courses
+- Fact-checking, [Better News](https://betternews.org/topic/fact-checking/) | `Free`
+- Fact-Checking and Debunking: Covering Rumors, Hoaxes and Gossip, [Poynter](https://www.poynter.org/shop/fact-checking/fact-checking-debunking/) (Craig Silverman)
+- Getting It Right: Accuracy and Verification in the Digital Age, [Poynter](https://www.poynter.org/shop/self-directed-course/getting-it-right-accuracy-and-verification-in-the-digital-age/) (Craig Silverman)
+- Hands-on Fact-checking: A Short Course, [Poynter](https://www.poynter.org/shop/fact-checking/handson-factchecking/) (Jane Elizabeth & Alexios Mantzarlis) | `Free`
+- Making Sense of the News: News Literacy Lessons for Digital Citizens, [Coursera](https://www.coursera.org/learn/news-literacy) (Masato Kajimoto & others | University of Hong Kong
+& SUNY)
+- News Literacy Primer: How to Evaluate Information, [Poynter](https://www.poynter.org/shop/self-directed-course/news-literacy-primer/) (Pam Hogle)
+
+### <a name="Events"></a> Events
+- [International Fact-Checking Day](https://factcheckingday.com/)
+
+### <a name="Initiatives-Projects"></a> Initiatives & Projects
+- [Arizona State University News Co/Lab](https://newscollab.org/)
+- [Better News](https://betternews.org/) (American Press Institute & Knight-Lenfest Newsroom Initiative)
+- [Center for News Literacy @ Stony Brook Uni. Sch. of Journalism](https://www.centerfornewsliteracy.org/)
+- [Common Sense Education](https://www.commonsense.org/education/)
+- [Facebook Journalism Project](https://www.facebook.com/journalismproject)
+- [Google News Initiative](https://newsinitiative.withgoogle.com/)
+- [National Association for Media Literacy Education (NAMLE)](https://namle.net/about/) (US)
+- [Media Literacy Now](https://medialiteracynow.org/)
+- [National Literacy Trust](https://literacytrust.org.uk/) (UK)
+- [News Integrity Initiative @ the CUNY Newmark J-School](https://www.journalism.cuny.edu/centers/tow-knight-center-entrepreneurial-journalism/news-integrity-initiative/)
+- [News Literacy Project](https://newslit.org/)
+
+### <a name="Learning-and-Teaching-Resources"></a> Learning and Teaching Resources
+- Sarah Blakeslee. 2004. *The CRAAP Test*, LOEX Quarterly, Volume 31: Issue 3, Article 4. [`PDF`](https://commons.emich.edu/cgi/viewcontent.cgi?article=1009&context=loexquarterly) \
+ The CRAAP Test is a simple, practical framework for evaluating the credibility of information. It involves asking questions about the information's **C**urrency, **R**elevance, **A**uthority, **A**ccuracy, and **P**urpose. [`PDF`](https://library.csuchico.edu/sites/default/files/craap-test.pdf) [`Web`](https://library.csuchico.edu/help/source-or-information-good)
+
 - Caroline Jack and Monica Bulger. 2017. *Lexicon of Lies: Teaching Resources*, Data & Society Research Institute. [`PDF`](https://datasociety.net/pubs/oh/DataAndSociety_TeachingGuide_LexiconofLies.pdf) [`Web`](https://datasociety.net/output/lexicon-of-lies/)
 
-- Sarah Blakeslee. 2004. *The CRAAP Test*, LOEX Quarterly: Volume 31: Issue 3, Article 4. [`PDF`](https://commons.emich.edu/cgi/viewcontent.cgi?article=1009&context=loexquarterly)
+- [First Draft Resource Hub](https://firstdraftnews.org/en/education/learn/) (First Draft): guides on resources for news gathering, verification, reporting, etc. \
+  Includes First Draft's Essential Guide to:
+  - Understanding Information Disorder [`PDF`](https://firstdraftnews.org/wp-content/uploads/2019/10/Information_Disorder_Digital_AW.pdf?x89004) [`Web`](https://firstdraftnews.org/information-disorder-the-techniques-we-saw-in-2016-have-evolved/)
+  - Verifying Online Information [`PDF`](https://firstdraftnews.org/wp-content/uploads/2019/10/Verifying_Online_Information_Digital_AW.pdf?x89004) [`Web`](https://firstdraftnews.org/verifying-online-information-the-absolute-essentials/)
+  - Closed Groups, Messaging Apps and Online Ads [`PDF`](https://firstdraftnews.org/wp-content/uploads/2019/11/Messaging_Apps_Digital_AW-1.pdf?x89004) [`Web`](https://firstdraftnews.org/latest/closed-groups-messaging-apps-and-online-ads-the-new-battlegrounds-of-disinformation/)
 
- The CRAAP Test is a simple, practical framework for evaluating the credibility of information. It involves asking questions about the information's **C**urrency, **R**elevance, **A**uthority, **A**ccuracy, and **P**urpose. [`PDF`](https://library.csuchico.edu/sites/default/files/craap-test.pdf) [`Web`](https://library.csuchico.edu/help/source-or-information-good)
 
 - [The Full Fact Toolkit](https://fullfact.org/toolkit/) (Full Fact): a collection of simple tools for identifying misleading videos, images, headlines, etc.
 
+- [History Lessons](https://sheg.stanford.edu/history-lessons) (Stanford History Education Group): "...teaches students how to investigate historical questions by employing reading strategies such as sourcing, contextualizing, corroborating, and close reading."
+
 - [News & Media Literacy Curriculum Resources](https://www.commonsense.org/education/toolkit/news-and-media-literacy) (Common Sense): learning resources and classroom activities for Grades K-2, 3-5, 6-8 and 9-12.
+
+- **Reports:**
+  - Commission on Fake News and the Teaching of Critical Literacy Skills, *Fake news and critical literacy*. [`PDF`](https://cdn.literacytrust.org.uk/media/documents/Fake_news_and_critical_literacy_-_final_report.pdf) [`Web`](https://literacytrust.org.uk/policy-and-campaigns/all-party-parliamentary-group-literacy/fakenews/)
+  - European Audiovisual Observatory, *Mapping of media literacy practices and actions in EU-28: EAO report*. [`PDF`](https://rm.coe.int/media-literacy-mapping-report-en-final-pdf/1680783500) [`Web`](https://www.epra.org/news_items/mapping-of-media-literacy-prectices-and-actions-in-eu-28-eao-report)
+  - European Commission, *Synopsis report of the public consultation on fake news and online disinformation*. [`Web`](https://ec.europa.eu/digital-single-market/en/news/synopsis-report-public-consultation-fake-news-and-online-disinformation)
+  - National Council for the Social Studies, *Social Education September 2018*. [`Papers`](https://www.socialstudies.org/publications/socialeducation/september2018)
+  - Reuters Institute, *The Impact of Greater News Literacy (in Reuters Institute  Digital News Report 2018)*. [`PDF`](http://media.digitalnewsreport.org/wp-content/uploads/2018/06/digital-news-report-2018.pdf) [`Web`](http://www.digitalnewsreport.org/survey/2018/the-impact-of-greater-news-literacy/)
+
+### <a name="Podcasts-Talk-Shows"></a> Podcasts and Talk Shows
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/836488304&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/martinssamuel" title="Martins Samuel" target="_blank" style="color: #cccccc; text-decoration: none;">Martins Samuel</a> | <a href="https://soundcloud.com/martinssamuel/sets/infodis" title="Information Disorder" target="_blank" style="color: #cccccc; text-decoration: none;">Information Disorder</a></div>
+
+### <a name="Policies"></a> Policies
+- European Commission, [Tackling online disinformation](https://ec.europa.eu/digital-single-market/en/tackling-online-disinformation)
+
+### <a name="Webinars"></a> Webinars
+- Fact-Check It: Digital Tools to Verify Everything Online, [Poynter](https://www.poynter.org/shop/webinar/fact-check/) (Daniel Funke & Ren LaForme)
+- Fact-checking in an Era of Fake News and Misinformation, David N. Ofili [`Slides`](https://www.slideshare.net/Davenof/factchecking-in-an-era-of-fake-news-and-misinformation) [`Video`](https://www.youtube.com/watch?v=DMVpiCat5Wo)
+
+---
 
 ## <a name="Surveys-and-Reports"></a> Surveys and Reports
 Niall J. Conroy, Victoria L. Rubin, and Yimin Chen. 2015. Automatic deception detection: Methods for finding fake news. [`DOI`](https://doi.org/10.1002/pra2.2015.145052010082) [`PDF`](https://asistdl.onlinelibrary.wiley.com/doi/epdf/10.1002/pra2.2015.145052010082)
@@ -65,6 +129,10 @@ Shivam B. Parikh and Pradeep K. Atrey. 2018. Media-Rich Fake News Detection: A S
 
 Francesco Pierri and Stefano Ceri. 2019. False News On Social Media: A Data-Driven Survey. arXiv:1902.07539. [`PDF`](https://arxiv.org/pdf/1902.07539.pdf)
 
+Reuters Institute. 2018. Reuters Institute Digital News Report 2018. [`PDF`](http://media.digitalnewsreport.org/wp-content/uploads/2018/06/digital-news-report-2018.pdf) \
+— Richard Fletcher. n.d. Misinformation and Disinformation Unpacked [`Web`](http://www.digitalnewsreport.org/survey/2018/misinformation-and-disinformation-unpacked/) \
+— Richard Fletcher. n.d. The Impact of Greater News Literacy [`Web`](http://www.digitalnewsreport.org/survey/2018/the-impact-of-greater-news-literacy/)
+
 Karishma Sharma, Feng Qian, He Jiang, Natali Ruchansky, Ming Zhang, and Yan Liu. 2019. Combating fake news: A survey on identification and mitigation techniques. arXiv:1901.06437. [`PDF`](https://arxiv.org/pdf/1901.06437.pdf)
 
 Kai Shu, Amy Sliva, Suhang Wang, Jiliang Tang, and Huan Liu. 2017. Fake News Detection on Social Media. arXiv:1708.01967. [`PDF`](https://arxiv.org/pdf/1708.01967.pdf)
@@ -74,6 +142,8 @@ Savvas Zannettou, Michael Sirivianos, Jeremy Blackburn, and Nicolas Kourtellis. 
 Xinyi Zhou and Reza Zafarani. 2018. Fake News: A Survey of Research, Detection Methods, and Opportunities. arXiv:1812.00315. [`PDF`](https://arxiv.org/pdf/1812.00315.pdf)
 
 Arkaitz Zubiaga, Ahmet Aker, Kalina Bontcheva, Maria Liakata, and Rob Procter. 2018. Detection and resolution of rumours in social media: A survey. arXiv:1704.00656. [`PDF`](https://arxiv.org/pdf/1704.00656.pdf)
+
+---
 
 ## <a name="Tutorials"></a> Tutorials
 Liang Wu, Giovanni Luca Ciamplaglia, and Huan Liu. 2017. *Mining Misinformation in Social Media: Understanding Its Rampant Spread, Harm, and Intervention*. IEEE International Conference on Data Mining ICDM 2017. [`Part 1`](https://www.youtube.com/watch?v=lapFDmz_xGI) [`Part 2`](https://www.youtube.com/watch?v=JAuoPq-VQTA) [`Slides`](http://www.public.asu.edu/~liangwu1/icdm2017_tutorial_misinformation.pdf) [`Web`](http://www.public.asu.edu/~liangwu1/ICDM17MisinformationTutorial.html)
