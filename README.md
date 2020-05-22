@@ -106,8 +106,7 @@ Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disor
   - Reuters Institute, *The Impact of Greater News Literacy (in Reuters Institute  Digital News Report 2018)*. [`PDF`](http://media.digitalnewsreport.org/wp-content/uploads/2018/06/digital-news-report-2018.pdf) [`Web`](http://www.digitalnewsreport.org/survey/2018/the-impact-of-greater-news-literacy/)
 
 ### <a name="Podcasts-Talk-Shows"></a> Podcasts and Talk Shows
-
-<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/836488304&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/martinssamuel" title="Martins Samuel" target="_blank" style="color: #cccccc; text-decoration: none;">Martins Samuel</a> | <a href="https://soundcloud.com/martinssamuel/sets/infodis" title="Information Disorder" target="_blank" style="color: #cccccc; text-decoration: none;">Information Disorder</a></div>
+[Soundcloud](https://soundcloud.com/martinssamuel/sets/infodis)
 
 ### <a name="Policies"></a> Policies
 - European Commission, [Tackling online disinformation](https://ec.europa.eu/digital-single-market/en/tackling-online-disinformation)
