@@ -4,21 +4,12 @@ This is a curated list of resources for research on various kinds of information
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Contents
-<<<<<<< HEAD
 1. [Conferences and Workshops](##Conferences-and-Workshops)
 2. [Datasets](##Datasets)
 3. [Glossaries](##Glossaries)
 4. [News Literacy](##News-Literacy)
 5. [Surveys and Reports](##Surveys-and-Reports)
 6. [Tutorials](##Tutorials)
-=======
-1. [Conferences and Workshops](#Conferences-and-Workshops)
-2. [Datasets](#Datasets)
-3. [Glossaries](#Glossaries)
-4. [Learning and Teaching Resources](#Learning-and-Teaching-Resources)
-5. [Surveys and Reports](#Surveys-and-Reports)
-6. [Tutorials](#Tutorials)
->>>>>>> 0a5bf83a26c53cf2bb6e2265ec5c93b4adabc601
 
 ## <a name="Conferences-and-Workshops"></a> Conferences and Workshops
 David Lazer, Matthew Baum, Nir Grinberg, Lisa Friedland, Kenneth Joseph, Will Hobbs, and Carolina Mattsson. May 2017 (Conference held February 17-18, 2017). Combating Fake News: An Agenda for Research and Action. Cambridge, MA, USA. [`Schedule`](https://shorensteincenter.org/wp-content/uploads/2017/02/Fake-News-Conference_Final-Program.pdf) [`PDF`](https://pdfs.semanticscholar.org/6db0/f7c6023efae688253dc95617e11108547e7e.pdf) [`Web`](https://shorensteincenter.org/combating-fake-news-agenda-for-research/)
