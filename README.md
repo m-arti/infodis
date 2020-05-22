@@ -14,6 +14,8 @@ This is a curated list of resources for research on various kinds of information
 ## <a name="Conferences-and-Workshops"></a> Conferences and Workshops
 David Lazer, Matthew Baum, Nir Grinberg, Lisa Friedland, Kenneth Joseph, Will Hobbs, and Carolina Mattsson. May 2017 (Conference held February 17-18, 2017). Combating Fake News: An Agenda for Research and Action. Cambridge, MA, USA. [`Schedule`](https://shorensteincenter.org/wp-content/uploads/2017/02/Fake-News-Conference_Final-Program.pdf) [`PDF`](https://pdfs.semanticscholar.org/6db0/f7c6023efae688253dc95617e11108547e7e.pdf) [`Web`](https://shorensteincenter.org/combating-fake-news-agenda-for-research/)
 
+Understanding and Addressing the Disinformation Ecosystem. Annenberg School for Communication. December 2017. (Workshop held December 15-16, 2017). Philadelphia, PA, USA. [`PDF`](https://firstdraftnews.org/wp-content/uploads/2018/03/The-Disinformation-Ecosystem-20180207-v2.pdf?utm_content=buffer2cbef&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
 ---
 
 ## <a name="Datasets"></a> Datasets
@@ -52,7 +54,21 @@ Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disor
 ## <a name="News-Literacy"></a> News Literacy
 
 ### <a name="Books"></a> Books
-- [Calling Bullshit](https://callingbullshit.org/), Carl T. Bergstrom & Jevin D. West (Coming August 4th, 2020)
+- [A Survival Guide to the Misinformation Age: Scientific Habits of Mind](https://cup.columbia.edu/book/a-survival-guide-to-the-misinformation-age/9780231168731), David J. Helfand  (Columbia University Press, 2017)
+
+- [Bunk: The Rise of Hoaxes, Humbug, Plagiarists, Phonies, Post-Facts, and Fake News](https://www.graywolfpress.org/books/bunk), Kevin Young (Graywolf Press, 2018)
+
+- [Calling Bullshit](https://callingbullshit.org/), Carl T. Bergstrom & Jevin D. West (Penguin Random House, 2020)
+
+- [Deciding What’s True: The Rise of Political Fact-Checking in American Journalism](https://cup.columbia.edu/book/deciding-whats-true/9780231542227), Lucas Graves (Columbia University Press, 2016)
+
+- [Internet Literacy Handbook](https://rm.coe.int/internet-literacy-handbook/1680766c85), Council of Europe (2017) [`Read`](https://rm.coe.int/internet-literacy-handbook/1680766c85)
+
+- [The Trouble with Reality: A Rumination on Moral Panic in Our Time](https://www.workman.com/products/the-trouble-with-reality-1), Brooke Gladstone (Workman Publishing, 2017)
+
+- [Weaponized Lies: How to Think Critically in the Post-Truth Era](https://www.penguinrandomhouse.com/books/558493/weaponized-lies-by-daniel-j-levitin/), Daniel J. Levitin (Penguin Random House, 2017)
+
+- [Web Literacy for Student Fact-Checkers](https://webliteracy.pressbooks.com/), Michael A. Caulfield (Pressbooks, n.d.) [`Read`](https://webliteracy.pressbooks.com/front-matter/web-strategies-for-student-fact-checkers/)
 
 ### <a name="Courses"></a> Courses
 - Fact-checking, [Better News](https://betternews.org/topic/fact-checking/) | `Free`
@@ -85,6 +101,16 @@ Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disor
 
 - Caroline Jack and Monica Bulger. 2017. *Lexicon of Lies: Teaching Resources*, Data & Society Research Institute. [`PDF`](https://datasociety.net/pubs/oh/DataAndSociety_TeachingGuide_LexiconofLies.pdf) [`Web`](https://datasociety.net/output/lexicon-of-lies/)
 
+- [A Field Guide to "Fake News" and Other Information Disorders](https://fakenews.publicdatalab.org/) (Public Data Lab) [`DOI`](https://doi.org/10.5281/zenodo.1136271) [`PDF`](https://zenodo.org/record/1136272/files/AFieldGuidetoFakeNews.pdf?download=1) [`Github`](https://github.com/PublicDataLab/fake-news-field-guide)
+
+- [#BotSpot: Twelve Ways to Spot a Bot](https://medium.com/dfrlab/botspot-twelve-ways-to-spot-a-bot-aedc7d9c110c) (Digital Forensic Research Lab @ Atlantic Council): some tricks to identify fake Twitter accounts.
+
+- [5 tips for fact-checking datasets](https://www.poynter.org/fact-checking/2015/5-tips-for-fact-checking-datasets/) (Poynter)
+
+- [Fact-checking for educators and future voters](https://www.faktabaari.fi/assets/FactBar_EDU_Fact-checking_for_educators_and_future_voters_13112018.pdf) (FactBar EDU)
+
+- [Fake News and News Bias](http://library.bu.edu/fakenews) (Boston University Libraries): guides on fact checking and bias recognition.
+
 - [First Draft Resource Hub](https://firstdraftnews.org/en/education/learn/) (First Draft): guides on resources for news gathering, verification, reporting, etc. \
   Includes First Draft's Essential Guide to:
   - Understanding Information Disorder [`PDF`](https://firstdraftnews.org/wp-content/uploads/2019/10/Information_Disorder_Digital_AW.pdf?x89004) [`Web`](https://firstdraftnews.org/information-disorder-the-techniques-we-saw-in-2016-have-evolved/)
@@ -96,20 +122,60 @@ Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disor
 
 - [History Lessons](https://sheg.stanford.edu/history-lessons) (Stanford History Education Group): "...teaches students how to investigate historical questions by employing reading strategies such as sourcing, contextualizing, corroborating, and close reading."
 
+- [Fake news and critical literacy resources](https://literacytrust.org.uk/resources/fake-news-and-critical-literacy-resources/) (National Literacy Trust): a series of fake news and critical literacy teaching resources for parents, and primary and secondary educators.
+
+- [Método de Verificación del Debate Público](https://chequeado.com/metodo/) (chequeado)
+
 - [News & Media Literacy Curriculum Resources](https://www.commonsense.org/education/toolkit/news-and-media-literacy) (Common Sense): learning resources and classroom activities for Grades K-2, 3-5, 6-8 and 9-12.
 
-- **Reports:**
-  - Commission on Fake News and the Teaching of Critical Literacy Skills, *Fake news and critical literacy*. [`PDF`](https://cdn.literacytrust.org.uk/media/documents/Fake_news_and_critical_literacy_-_final_report.pdf) [`Web`](https://literacytrust.org.uk/policy-and-campaigns/all-party-parliamentary-group-literacy/fakenews/)
-  - European Audiovisual Observatory, *Mapping of media literacy practices and actions in EU-28: EAO report*. [`PDF`](https://rm.coe.int/media-literacy-mapping-report-en-final-pdf/1680783500) [`Web`](https://www.epra.org/news_items/mapping-of-media-literacy-prectices-and-actions-in-eu-28-eao-report)
-  - European Commission, *Synopsis report of the public consultation on fake news and online disinformation*. [`Web`](https://ec.europa.eu/digital-single-market/en/news/synopsis-report-public-consultation-fake-news-and-online-disinformation)
-  - National Council for the Social Studies, *Social Education September 2018*. [`Papers`](https://www.socialstudies.org/publications/socialeducation/september2018)
-  - Reuters Institute, *The Impact of Greater News Literacy (in Reuters Institute  Digital News Report 2018)*. [`PDF`](http://media.digitalnewsreport.org/wp-content/uploads/2018/06/digital-news-report-2018.pdf) [`Web`](http://www.digitalnewsreport.org/survey/2018/the-impact-of-greater-news-literacy/)
+- [Slowing the infodemic: How to Spot COVID-19 misinformation](https://namle.net/wp-content/uploads/2020/05/NAMLE-ReutersClassroomGuide.pdf) (NAMLE)
+
+
+- **Exercises, Games & Quizzes**:
+  - [Can You Spot the Deceptive Facebook Post?](https://www.nytimes.com/interactive/2018/09/04/technology/facebook-influence-campaigns-quiz.html) (New York Times)
+  - [Daily Quizzes to Train Your Verification Skills](https://www.bellingcat.com/resources/2017/11/13/daily-verification-quizzes/?ct=t(EMAIL_CAMPAIGN_10_1_2018_17_21) (Bellingcat)
+  - [First Draft Observation Challenge](https://firstdraftnews.org/en/education/curriculum-resource/5-observation-challenge/) (First Draft)
+  - [First Draft Geolocation Challenge](https://firstdraftnews.org/en/education/curriculum-resource/test-your-verification-skills-with-our-geolocation-challenge/) (First Draft)
+  - [The News Hero on Facebook](https://apps.facebook.com/thenewshero) (The News Hero)
+  - [The Perils of Perception](https://perils.ipsos.com/index.html?ct=t(EMAIL_CAMPAIGN_10_1_2018_17_21_COPY_02) (Ipsos)
+
+
+- **Reference & Fact Check:**
+    - [Africa Check Info Finder](https://africacheck.org/infofinder/#/)
+    - [Data.gov](https://www.data.gov/)
+    - [Data.gov.uk](https://data.gov.uk/)
+    - [FAO Statistics](http://www.fao.org/statistics/en/)
+    - [Full Fact Finder](https://fullfact.org/finder/)
+    - [Internet Archive](https://archive.org/)
+    - [Pew Research Center - Journalism & Media](https://www.journalism.org/)
+    - [WHO World Health Data Platform](https://www.who.int/data)
+    - [World Bank Open Data](https://data.worldbank.org/)
+
+
+- **Videos:**
+  - [How to Spot Fake News](https://www.youtube.com/watch?v=AkwWcHekMdo) (FactCheck.org)
+
 
 ### <a name="Podcasts-Talk-Shows"></a> Podcasts and Talk Shows
 [Soundcloud](https://soundcloud.com/martinssamuel/sets/infodis)
 
 ### <a name="Policies"></a> Policies
 - European Commission, [Tackling online disinformation](https://ec.europa.eu/digital-single-market/en/tackling-online-disinformation)
+
+### <a name="Reports"></a> Reports
+  - Commission on Fake News and the Teaching of Critical Literacy Skills, 2017. *Fake news and critical literacy*. [`PDF`](https://cdn.literacytrust.org.uk/media/documents/Fake_news_and_critical_literacy_-_final_report.pdf) [`Web`](https://literacytrust.org.uk/policy-and-campaigns/all-party-parliamentary-group-literacy/fakenews/)
+
+  - Council of Europe. 2017. *Internet Literacy Handbook*. [`PDF`](https://rm.coe.int/internet-literacy-handbook/1680766c85)
+
+  - European Audiovisual Observatory, 2017. *Mapping of media literacy practices and actions in EU-28: EAO report*. [`PDF`](https://rm.coe.int/media-literacy-mapping-report-en-final-pdf/1680783500) [`Web`](https://www.epra.org/news_items/mapping-of-media-literacy-prectices-and-actions-in-eu-28-eao-report)
+
+  - European Commission, 2018. *Synopsis report of the public consultation on fake news and online disinformation*. [`Web`](https://ec.europa.eu/digital-single-market/en/news/synopsis-report-public-consultation-fake-news-and-online-disinformation)
+
+  - National Council for the Social Studies, 2018. *Social Education September 2018*. [`Papers`](https://www.socialstudies.org/publications/socialeducation/september2018)
+
+  - Reuters Institute, 2018. *The Impact of Greater News Literacy (in Reuters Institute  Digital News Report 2018)*. [`PDF`](http://media.digitalnewsreport.org/wp-content/uploads/2018/06/digital-news-report-2018.pdf) [`Web`](http://www.digitalnewsreport.org/survey/2018/the-impact-of-greater-news-literacy/)
+
+  - Stanford History Education Group, 2016. *Evaluating Information: The Cornerstone of Civic Online Reasoning*. [`PDF`](https://stacks.stanford.edu/file/druid:fv751yt5934/SHEG%20Evaluating%20Information%20Online.pdf)
 
 ### <a name="Webinars"></a> Webinars
 - Fact-Check It: Digital Tools to Verify Everything Online, [Poynter](https://www.poynter.org/shop/webinar/fact-check/) (Daniel Funke & Ren LaForme)
@@ -136,6 +202,8 @@ Francesco Pierri and Stefano Ceri. 2019. False News On Social Media: A Data-Driv
 Reuters Institute. 2018. Reuters Institute Digital News Report 2018. [`PDF`](http://media.digitalnewsreport.org/wp-content/uploads/2018/06/digital-news-report-2018.pdf) \
 — Richard Fletcher. n.d. Misinformation and Disinformation Unpacked [`Web`](http://www.digitalnewsreport.org/survey/2018/misinformation-and-disinformation-unpacked/) \
 — Richard Fletcher. n.d. The Impact of Greater News Literacy [`Web`](http://www.digitalnewsreport.org/survey/2018/the-impact-of-greater-news-literacy/)
+
+Jon Roozenbeek and Sander van der Linden. 2019. The Fake News Game: Actively Inoculating Against the Risk of Misinformation. [`DOI`](https://doi.org/10.1080/13669877.2018.1443491) [`PDF`](https://www.cam.ac.uk/sites/www.cam.ac.uk/files/fakenews_latest_jrr_aaas.pdf)
 
 Karishma Sharma, Feng Qian, He Jiang, Natali Ruchansky, Ming Zhang, and Yan Liu. 2019. Combating fake news: A survey on identification and mitigation techniques. arXiv:1901.06437. [`PDF`](https://arxiv.org/pdf/1901.06437.pdf)
 
