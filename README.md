@@ -118,6 +118,9 @@ Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disor
 ---
 
 ## <a name="Surveys-and-Reports"></a> Surveys and Reports
+
+Mevan Babakar and Will Moy. 2016. The State of Automated Factchecking. Full Fact. [`PDF`](https://fullfact.org/media/uploads/full_fact-the_state_of_automated_factchecking_aug_2016.pdf) [`Web`](https://fullfact.org/blog/2016/aug/automated-factchecking/)
+
 Niall J. Conroy, Victoria L. Rubin, and Yimin Chen. 2015. Automatic deception detection: Methods for finding fake news. [`DOI`](https://doi.org/10.1002/pra2.2015.145052010082) [`PDF`](https://asistdl.onlinelibrary.wiley.com/doi/epdf/10.1002/pra2.2015.145052010082)
 
 Georgios Gravanis, Athena Vakali, Konstantinos Diamantaras, and Panagiotis Karadais. 2019. Behind the cues: A benchmarking study for fake news detection. [`DOI`](https://doi.org/10.1016/j.eswa.2019.03.036) [`PDF`](https://datalab.csd.auth.gr/wp-content/uploads/publications/GRAVANIS2019201.pdf)
