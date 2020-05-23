@@ -8,8 +8,9 @@ This is a curated list of resources for research on various kinds of information
 1. [📅 Conferences and Workshops](#Conferences-and-Workshops)
 2. [📁 Datasets](#Datasets)
 3. [🗂 Glossaries](#Glossaries)
-4. [📄 Surveys and Reports](#Surveys-and-Reports)
-5. [📝 Tutorials](#Tutorials)
+4. [🏢 Research Labs](#Research-Labs-Partnerships)
+5. [📄 Surveys and Reports](#Surveys-and-Reports)
+6. [📝 Tutorials](#Tutorials)
 
 
 ## <a name="Conferences-and-Workshops"></a> 📅 Conferences and Workshops
@@ -19,6 +20,8 @@ Understanding and Addressing the Disinformation Ecosystem. Annenberg School for 
 
 
 ## <a name="Datasets"></a> 📁 Datasets
+
+### <a name="Academic-Datasets"></a> Academic
 - **BuzzFace**: A News Veracity Dataset with Facebook User Commentary and Egos. [`Data`](https://github.com/gsantia/BuzzFace) [`Paper`](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17825/17046)
 
 - **BuzzFeed-Webis Fake News Corpus 2016**: Consists moslty of political news, fact-checked by journalists at BuzzFeed. The data was sourced from the Facebook pages of 9 _verified_ publishers (6 hyperpartisan, 3 left-wing and 3 right-wing), one week before the 2016 US elections. [`Data`](https://zenodo.org/record/1239675) [`Paper`](https://arxiv.org/pdf/1702.05638.pdf)
@@ -42,6 +45,10 @@ of Misinformation in News Articles. [`Data`](https://dataverse.harvard.edu/datas
 
 - **SVDC: Dataset for fake news and articles detection**: news on conflict in Syria. Articles were verified using information provided by the Syrian Violations Documentation Centre. [`Data`](https://zenodo.org/record/2532642)
 
+### <a name="Non-Academic-Datasets"></a> Non-Academic
+
+- **EUvsDisinfo**: a continuously updated collection of disinformation cases in multiple languages from all over the world. [`Data`](https://euvsdisinfo.eu/disinformation-cases/)
+
 
 ## <a name="Glossaries"></a> 🗂 Glossaries
 Caroline Jack. 2017. *Lexicon of Lies: Terms for Problematic Information*, Data & Society Research Institute. [`PDF`](https://datasociety.net/pubs/oh/DataAndSociety_LexiconofLies.pdf) [`Web`](https://datasociety.net/output/lexicon-of-lies/)
@@ -49,8 +56,39 @@ Caroline Jack. 2017. *Lexicon of Lies: Terms for Problematic Information*, Data 
 Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disorder: The Essential Glossary*, First Draft. [`PDF`](https://firstdraftnews.org/wp-content/uploads/2018/07/infoDisorder_glossary.pdf) [`Web`](https://medium.com/1st-draft/information-disorder-part-1-the-essential-glossary-19953c544fe3)
 
 
-## <a name="Surveys-and-Reports"></a> 📄 Surveys and Reports
+## <a name="News-Labs-Initiatives"></a> 📰 News Labs & Initiatives
+- [BBC News Labs](https://bbcnewslabs.co.uk/) [`Github`](https://github.com/BBC-News-Labs)
+- [EU DisinfoLab](https://www.disinfo.eu/)
+- [EUvsDisinfo](https://euvsdisinfo.eu/)
+- [Logically](https://www.logically.co.uk/)
+- [Meedan](https://meedan.com/about) [`Github`](https://github.com/meedan)
+- [MediaWell](https://mediawell.ssrc.org/) @ Social Science Research Council (SSRC)
+- [The Obsidian Collection](https://www.theobsidiancollection.org/what-we-do)
+- [RoBHat Labs](https://www.robhat.com/)
+- **Companies**
+  - [Blackbird.ai](https://www.blackbird.ai/), US
+  - [Fabula.ai](https://web.archive.org/web/20190621033103/https://fabula.ai/), UK (Acquired by Twitter)
+  - [Factmata](https://factmata.com/), UK
+  - [Graphika](https://www.graphika.com/), US
 
+
+
+
+
+## <a name="Research-Labs-Partnerships"></a> 🏢 Research Labs & Partnerships
+- [Data & Society](https://datasociety.net/)
+- [Public Data Lab](https://www.publicdatalab.org/) [`Github`](https://github.com/PublicDataLab/)
+- **At universities**
+  - [Discourse Processing Lab](http://www.sfu.ca/discourse-lab.html) @ Simon Fraser University [`Github`](https://github.com/sfu-discourse-lab)
+  - [Duke Reporters' Lab](https://reporterslab.org/) @ the Sanford Sch. of Public Policy, Duke University
+  - [The News Integrity Initiative](https://www.journalism.cuny.edu/centers/tow-knight-center-entrepreneurial-journalism/news-integrity-initiative/) @ the Newmark J-School, CUNY
+  - [Observatory on Social Media (OSoMe)](https://osome.iu.edu/) @ Indiana University
+- **Partnerships**
+  - [Credibility Coalition](https://credibilitycoalition.org/)
+  - [Social Science One](https://socialscience.one/) @ Harvard University
+
+
+## <a name="Surveys-and-Reports"></a> 📄 Surveys and Reports
 Mevan Babakar and Will Moy. 2016. The State of Automated Factchecking. Full Fact. [`PDF`](https://fullfact.org/media/uploads/full_fact-the_state_of_automated_factchecking_aug_2016.pdf) [`Web`](https://fullfact.org/blog/2016/aug/automated-factchecking/)
 
 Niall J. Conroy, Victoria L. Rubin, and Yimin Chen. 2015. Automatic deception detection: Methods for finding fake news. [`DOI`](https://doi.org/10.1002/pra2.2015.145052010082) [`PDF`](https://asistdl.onlinelibrary.wiley.com/doi/epdf/10.1002/pra2.2015.145052010082)

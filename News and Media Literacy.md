@@ -77,19 +77,22 @@ This is a curated list of resources for  teaching and learning news and media li
 
 - [News & Media Literacy Curriculum Resources](https://www.commonsense.org/education/toolkit/news-and-media-literacy) (Common Sense): learning resources and classroom activities for Grades K-2, 3-5, 6-8 and 9-12.
 
+- [NewsGuard News Literacy Resources](https://www.newsguardtech.com/news-literacy/)
+
 - [Slowing the infodemic: How to Spot COVID-19 misinformation](https://namle.net/wp-content/uploads/2020/05/NAMLE-ReutersClassroomGuide.pdf) (NAMLE)
 
 
-- **Courses:**
+- **Courses**
   - Fact-checking, [Better News](https://betternews.org/topic/fact-checking/) | `Free`
   - Fact-Checking and Debunking: Covering Rumors, Hoaxes and Gossip, [Poynter](https://www.poynter.org/shop/fact-checking/fact-checking-debunking/) (Craig Silverman)
   - Getting It Right: Accuracy and Verification in the Digital Age, [Poynter](https://www.poynter.org/shop/self-directed-course/getting-it-right-accuracy-and-verification-in-the-digital-age/) (Craig Silverman)
   - Hands-on Fact-checking: A Short Course, [Poynter](https://www.poynter.org/shop/fact-checking/handson-factchecking/) (Jane Elizabeth & Alexios Mantzarlis) | `Free`
   - Making Sense of the News: News Literacy Lessons for Digital Citizens, [Coursera](https://www.coursera.org/learn/news-literacy) (Masato Kajimoto & others | University of Hong Kong & SUNY)
   - News Literacy Primer: How to Evaluate Information, [Poynter](https://www.poynter.org/shop/self-directed-course/news-literacy-primer/) (Pam Hogle)
+  - Verification, [Google News Initiative](https://newsinitiative.withgoogle.com/training/course/verification) | `Free`
 
 
-- **Exercises, Games & Quizzes:**
+- **Exercises, Games & Quizzes**
   - [Can You Spot the Deceptive Facebook Post?](https://www.nytimes.com/interactive/2018/09/04/technology/facebook-influence-campaigns-quiz.html) (New York Times)
   - [Daily Quizzes to Train Your Verification Skills](https://www.bellingcat.com/resources/2017/11/13/daily-verification-quizzes) (Bellingcat)
   - [First Draft Observation Challenge](https://firstdraftnews.org/en/education/curriculum-resource/5-observation-challenge/) (First Draft)
@@ -98,20 +101,22 @@ This is a curated list of resources for  teaching and learning news and media li
   - [The Perils of Perception](https://perils.ipsos.com/index.html) (Ipsos)
 
 
-- **Reference & Fact Check:**
+- **Reference & Fact Check**
     - [Africa Check Info Finder](https://africacheck.org/infofinder/#/)
     - [Data.gov](https://www.data.gov/)
     - [Data.gov.uk](https://data.gov.uk/)
-    - [FactStream App](https://apps.apple.com/us/app/factstream/id1327422405)
     - [FAO Statistics](http://www.fao.org/statistics/en/)
     - [Full Fact Finder](https://fullfact.org/finder/)
     - [Internet Archive](https://archive.org/)
     - [Pew Research Center - Journalism & Media](https://www.journalism.org/)
     - [WHO World Health Data Platform](https://www.who.int/data)
     - [World Bank Open Data](https://data.worldbank.org/)
+    - **Apps**
+      - FactStream [`App Store`](https://apps.apple.com/us/app/factstream/id1327422405)
+      - Logically [`App Store`](https://apps.apple.com/us/app/logically/id1463956713) [`Google Play`](https://play.google.com/store/apps/details?id=com.logically)
 
 
-- **Videos:**
+- **Videos**
   - [How to Spot Fake News](https://www.youtube.com/watch?v=AkwWcHekMdo) (FactCheck.org)
 
 
