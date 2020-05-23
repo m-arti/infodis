@@ -18,7 +18,7 @@ The resources are categorised as:
   Resources for teaching and learning about news and media literacy:
     - 📚 [Books](https://github.com/m-arti/infodis/blob/master/News%20and%20Media%20Literacy.md#Books)
     - 📅 [Events](https://github.com/m-arti/infodis/blob/master/News%20and%20Media%20Literacy.md#Events)
-    - 💡 [Initiatives and Reports](https://github.com/m-arti/infodis/blob/master/News%20and%20Media%20Literacy.md#Initiatives-Projects)
+    - 💡 [Initiatives and Projects](https://github.com/m-arti/infodis/blob/master/News%20and%20Media%20Literacy.md#Initiatives-Projects)
     - 📝 [Learning and Teaching Resources](https://github.com/m-arti/infodis/blob/master/News%20and%20Media%20Literacy.md#Learning-and-Teaching-Resources)
     - 🎙 [Podcasts and Talk Shows](https://github.com/m-arti/infodis/blob/master/News%20and%20Media%20Literacy.md#Podcasts-Talk-Shows)
     - 📜 [Policies](https://github.com/m-arti/infodis/blob/master/News%20and%20Media%20Literacy.md#Policies)
