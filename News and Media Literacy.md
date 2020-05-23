@@ -3,6 +3,7 @@ This is a curated list of resources for  teaching and learning news and media li
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
+
 ## Contents
 1. [📚 Books](#Books)
 2. [📅 Events](#Events)
@@ -13,25 +14,21 @@ This is a curated list of resources for  teaching and learning news and media li
 7. [📊 Reports](#Reports)
 8. [🖥 Webinars](#Webinars)
 
+
 ## <a name="Books"></a> 📚 Books
 - [A Survival Guide to the Misinformation Age: Scientific Habits of Mind](https://cup.columbia.edu/book/a-survival-guide-to-the-misinformation-age/9780231168731), David J. Helfand  (Columbia University Press, 2017)
-
 - [Bunk: The Rise of Hoaxes, Humbug, Plagiarists, Phonies, Post-Facts, and Fake News](https://www.graywolfpress.org/books/bunk), Kevin Young (Graywolf Press, 2018)
-
 - [Calling Bullshit](https://callingbullshit.org/), Carl T. Bergstrom & Jevin D. West (Penguin Random House, 2020)
-
 - [Deciding What’s True: The Rise of Political Fact-Checking in American Journalism](https://cup.columbia.edu/book/deciding-whats-true/9780231542227), Lucas Graves (Columbia University Press, 2016)
-
 - [Internet Literacy Handbook](https://rm.coe.int/internet-literacy-handbook/1680766c85), Council of Europe (2017) [`Read`](https://rm.coe.int/internet-literacy-handbook/1680766c85)
-
 - [The Trouble with Reality: A Rumination on Moral Panic in Our Time](https://www.workman.com/products/the-trouble-with-reality-1), Brooke Gladstone (Workman Publishing, 2017)
-
 - [Weaponized Lies: How to Think Critically in the Post-Truth Era](https://www.penguinrandomhouse.com/books/558493/weaponized-lies-by-daniel-j-levitin/), Daniel J. Levitin (Penguin Random House, 2017)
-
 - [Web Literacy for Student Fact-Checkers](https://webliteracy.pressbooks.com/), Michael A. Caulfield (Pressbooks, n.d.) [`Read`](https://webliteracy.pressbooks.com/front-matter/web-strategies-for-student-fact-checkers/)
+
 
 ## <a name="Events"></a> 📅 Events
 - [International Fact-Checking Day](https://factcheckingday.com/)
+
 
 ## <a name="Initiatives-Projects"></a> 💡 Initiatives & Projects
 - [Arizona State University News Co/Lab](https://newscollab.org/)
@@ -45,6 +42,7 @@ This is a curated list of resources for  teaching and learning news and media li
 - [National Literacy Trust](https://literacytrust.org.uk/) (UK)
 - [News Integrity Initiative @ the CUNY Newmark J-School](https://www.journalism.cuny.edu/centers/tow-knight-center-entrepreneurial-journalism/news-integrity-initiative/)
 - [News Literacy Project](https://newslit.org/)
+
 
 ## <a name="Learning-and-Teaching-Resources"></a> 📝 Learning and Teaching Resources
 - Sarah Blakeslee. 2004. *The CRAAP Test*, LOEX Quarterly, Volume 31: Issue 3, Article 4. [`PDF`](https://commons.emich.edu/cgi/viewcontent.cgi?article=1009&context=loexquarterly) \
@@ -120,23 +118,20 @@ This is a curated list of resources for  teaching and learning news and media li
 ## <a name="Podcasts-Talk-Shows"></a> 🎙 Podcasts and Talk Shows
 - [Soundcloud](https://soundcloud.com/martinssamuel/sets/infodis)
 
+
 ## <a name="Policies"></a> 📜 Policies
 - European Commission, [Tackling online disinformation](https://ec.europa.eu/digital-single-market/en/tackling-online-disinformation)
 
+
 ## <a name="Reports"></a> 📊 Reports
   - Commission on Fake News and the Teaching of Critical Literacy Skills, 2017. *Fake news and critical literacy*. [`PDF`](https://cdn.literacytrust.org.uk/media/documents/Fake_news_and_critical_literacy_-_final_report.pdf) [`Web`](https://literacytrust.org.uk/policy-and-campaigns/all-party-parliamentary-group-literacy/fakenews/)
-
   - Council of Europe. 2017. *Internet Literacy Handbook*. [`PDF`](https://rm.coe.int/internet-literacy-handbook/1680766c85)
-
   - European Audiovisual Observatory, 2017. *Mapping of media literacy practices and actions in EU-28: EAO report*. [`PDF`](https://rm.coe.int/media-literacy-mapping-report-en-final-pdf/1680783500) [`Web`](https://www.epra.org/news_items/mapping-of-media-literacy-prectices-and-actions-in-eu-28-eao-report)
-
   - European Commission, 2018. *Synopsis report of the public consultation on fake news and online disinformation*. [`Web`](https://ec.europa.eu/digital-single-market/en/news/synopsis-report-public-consultation-fake-news-and-online-disinformation)
-
   - National Council for the Social Studies, 2018. *Social Education September 2018*. [`Papers`](https://www.socialstudies.org/publications/socialeducation/september2018)
-
   - Reuters Institute, 2018. *The Impact of Greater News Literacy (in Reuters Institute  Digital News Report 2018)*. [`PDF`](http://media.digitalnewsreport.org/wp-content/uploads/2018/06/digital-news-report-2018.pdf) [`Web`](http://www.digitalnewsreport.org/survey/2018/the-impact-of-greater-news-literacy/)
-
   - Stanford History Education Group, 2016. *Evaluating Information: The Cornerstone of Civic Online Reasoning*. [`PDF`](https://stacks.stanford.edu/file/druid:fv751yt5934/SHEG%20Evaluating%20Information%20Online.pdf)
+
 
 ## <a name="Webinars"></a> 🖥 Webinars
 - Fact-Check It: Digital Tools to Verify Everything Online, [Poynter](https://www.poynter.org/shop/webinar/fact-check/) (Daniel Funke & Ren LaForme)

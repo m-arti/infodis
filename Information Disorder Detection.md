@@ -3,6 +3,7 @@ This is a curated list of resources for research on various kinds of information
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
+
 ## Contents
 1. [📅 Conferences and Workshops](#Conferences-and-Workshops)
 2. [📁 Datasets](#Datasets)
@@ -10,12 +11,12 @@ This is a curated list of resources for research on various kinds of information
 4. [📄 Surveys and Reports](#Surveys-and-Reports)
 5. [📝 Tutorials](#Tutorials)
 
+
 ## <a name="Conferences-and-Workshops"></a> 📅 Conferences and Workshops
 David Lazer, Matthew Baum, Nir Grinberg, Lisa Friedland, Kenneth Joseph, Will Hobbs, and Carolina Mattsson. May 2017 (Conference held February 17-18, 2017). Combating Fake News: An Agenda for Research and Action. Cambridge, MA, USA. [`Schedule`](https://shorensteincenter.org/wp-content/uploads/2017/02/Fake-News-Conference_Final-Program.pdf) [`PDF`](https://pdfs.semanticscholar.org/6db0/f7c6023efae688253dc95617e11108547e7e.pdf) [`Web`](https://shorensteincenter.org/combating-fake-news-agenda-for-research/)
 
 Understanding and Addressing the Disinformation Ecosystem. Annenberg School for Communication. December 2017. (Workshop held December 15-16, 2017). Philadelphia, PA, USA. [`PDF`](https://firstdraftnews.org/wp-content/uploads/2018/03/The-Disinformation-Ecosystem-20180207-v2.pdf?utm_content=buffer2cbef&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
----
 
 ## <a name="Datasets"></a> 📁 Datasets
 - **BuzzFace**: A News Veracity Dataset with Facebook User Commentary and Egos. [`Data`](https://github.com/gsantia/BuzzFace) [`Paper`](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17825/17046)
@@ -41,14 +42,12 @@ of Misinformation in News Articles. [`Data`](https://dataverse.harvard.edu/datas
 
 - **SVDC: Dataset for fake news and articles detection**: news on conflict in Syria. Articles were verified using information provided by the Syrian Violations Documentation Centre. [`Data`](https://zenodo.org/record/2532642)
 
----
 
 ## <a name="Glossaries"></a> 🗂 Glossaries
 Caroline Jack. 2017. *Lexicon of Lies: Terms for Problematic Information*, Data & Society Research Institute. [`PDF`](https://datasociety.net/pubs/oh/DataAndSociety_LexiconofLies.pdf) [`Web`](https://datasociety.net/output/lexicon-of-lies/)
 
 Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disorder: The Essential Glossary*, First Draft. [`PDF`](https://firstdraftnews.org/wp-content/uploads/2018/07/infoDisorder_glossary.pdf) [`Web`](https://medium.com/1st-draft/information-disorder-part-1-the-essential-glossary-19953c544fe3)
 
----
 
 ## <a name="Surveys-and-Reports"></a> 📄 Surveys and Reports
 
@@ -82,7 +81,6 @@ Xinyi Zhou and Reza Zafarani. 2018. Fake News: A Survey of Research, Detection M
 
 Arkaitz Zubiaga, Ahmet Aker, Kalina Bontcheva, Maria Liakata, and Rob Procter. 2018. Detection and resolution of rumours in social media: A survey. arXiv:1704.00656. [`PDF`](https://arxiv.org/pdf/1704.00656.pdf)
 
----
 
 ## <a name="Tutorials"></a> 📝 Tutorials
 Liang Wu, Giovanni Luca Ciamplaglia, and Huan Liu. 2017. *Mining Misinformation in Social Media: Understanding Its Rampant Spread, Harm, and Intervention*. IEEE International Conference on Data Mining ICDM 2017. [`Part 1`](https://www.youtube.com/watch?v=lapFDmz_xGI) [`Part 2`](https://www.youtube.com/watch?v=JAuoPq-VQTA) [`Slides`](http://www.public.asu.edu/~liangwu1/icdm2017_tutorial_misinformation.pdf) [`Web`](http://www.public.asu.edu/~liangwu1/ICDM17MisinformationTutorial.html)
