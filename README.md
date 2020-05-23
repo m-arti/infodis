@@ -4,21 +4,21 @@ This is a curated list of resources for research on various kinds of information
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Contents
-1. [Conferences and Workshops](#Conferences-and-Workshops)
-2. [Datasets](#Datasets)
-3. [Glossaries](#Glossaries)
-4. [News Literacy](#News-Literacy)
-5. [Surveys and Reports](#Surveys-and-Reports)
-6. [Tutorials](#Tutorials)
+1. [📅 Conferences and Workshops](#Conferences-and-Workshops)
+2. [📁 Datasets](#Datasets)
+3. [🗂 Glossaries](#Glossaries)
+4. [📰 News Literacy](#News-Literacy)
+5. [📄 Surveys and Reports](#Surveys-and-Reports)
+6. [📝 Tutorials](#Tutorials)
 
-## <a name="Conferences-and-Workshops"></a> Conferences and Workshops 📅
+## <a name="Conferences-and-Workshops"></a> 📅 Conferences and Workshops
 David Lazer, Matthew Baum, Nir Grinberg, Lisa Friedland, Kenneth Joseph, Will Hobbs, and Carolina Mattsson. May 2017 (Conference held February 17-18, 2017). Combating Fake News: An Agenda for Research and Action. Cambridge, MA, USA. [`Schedule`](https://shorensteincenter.org/wp-content/uploads/2017/02/Fake-News-Conference_Final-Program.pdf) [`PDF`](https://pdfs.semanticscholar.org/6db0/f7c6023efae688253dc95617e11108547e7e.pdf) [`Web`](https://shorensteincenter.org/combating-fake-news-agenda-for-research/)
 
 Understanding and Addressing the Disinformation Ecosystem. Annenberg School for Communication. December 2017. (Workshop held December 15-16, 2017). Philadelphia, PA, USA. [`PDF`](https://firstdraftnews.org/wp-content/uploads/2018/03/The-Disinformation-Ecosystem-20180207-v2.pdf?utm_content=buffer2cbef&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ---
 
-## <a name="Datasets"></a> Datasets 📁
+## <a name="Datasets"></a> 📁 Datasets
 - **BuzzFace**: A News Veracity Dataset with Facebook User Commentary and Egos. [`Data`](https://github.com/gsantia/BuzzFace) [`Paper`](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17825/17046)
 
 - **BuzzFeed-Webis Fake News Corpus 2016**: Consists moslty of political news, fact-checked by journalists at BuzzFeed. The data was sourced from the Facebook pages of 9 _verified_ publishers (6 hyperpartisan, 3 left-wing and 3 right-wing), one week before the 2016 US elections. [`Data`](https://zenodo.org/record/1239675) [`Paper`](https://arxiv.org/pdf/1702.05638.pdf)
@@ -44,14 +44,14 @@ of Misinformation in News Articles. [`Data`](https://dataverse.harvard.edu/datas
 
 ---
 
-## <a name="Glossaries"></a> Glossaries 🗂
+## <a name="Glossaries"></a> 🗂 Glossaries
 Caroline Jack. 2017. *Lexicon of Lies: Terms for Problematic Information*, Data & Society Research Institute. [`PDF`](https://datasociety.net/pubs/oh/DataAndSociety_LexiconofLies.pdf) [`Web`](https://datasociety.net/output/lexicon-of-lies/)
 
 Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disorder: The Essential Glossary*, First Draft. [`PDF`](https://firstdraftnews.org/wp-content/uploads/2018/07/infoDisorder_glossary.pdf) [`Web`](https://medium.com/1st-draft/information-disorder-part-1-the-essential-glossary-19953c544fe3)
 
 ---
 
-## <a name="News-Literacy"></a> News Literacy 📰
+## <a name="News-Literacy"></a> 📰 News Literacy
 
 ### <a name="Books"></a> Books
 - [A Survival Guide to the Misinformation Age: Scientific Habits of Mind](https://cup.columbia.edu/book/a-survival-guide-to-the-misinformation-age/9780231168731), David J. Helfand  (Columbia University Press, 2017)
@@ -184,7 +184,7 @@ Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disor
 
 ---
 
-## <a name="Surveys-and-Reports"></a> Surveys and Reports 📄
+## <a name="Surveys-and-Reports"></a> 📄 Surveys and Reports
 
 Mevan Babakar and Will Moy. 2016. The State of Automated Factchecking. Full Fact. [`PDF`](https://fullfact.org/media/uploads/full_fact-the_state_of_automated_factchecking_aug_2016.pdf) [`Web`](https://fullfact.org/blog/2016/aug/automated-factchecking/)
 
@@ -218,5 +218,5 @@ Arkaitz Zubiaga, Ahmet Aker, Kalina Bontcheva, Maria Liakata, and Rob Procter. 2
 
 ---
 
-## <a name="Tutorials"></a> Tutorials 📝
+## <a name="Tutorials"></a> 📝 Tutorials
 Liang Wu, Giovanni Luca Ciamplaglia, and Huan Liu. 2017. *Mining Misinformation in Social Media: Understanding Its Rampant Spread, Harm, and Intervention*. IEEE International Conference on Data Mining ICDM 2017. [`Part 1`](https://www.youtube.com/watch?v=lapFDmz_xGI) [`Part 2`](https://www.youtube.com/watch?v=JAuoPq-VQTA) [`Slides`](http://www.public.asu.edu/~liangwu1/icdm2017_tutorial_misinformation.pdf) [`Web`](http://www.public.asu.edu/~liangwu1/ICDM17MisinformationTutorial.html)
