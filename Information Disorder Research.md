@@ -7,7 +7,7 @@ This is a curated list of resources for research on various kinds of information
 ## Contents
 1. [📅 Conferences and Workshops](#Conferences-and-Workshops)
 2. [📁 Datasets](#Datasets)
-3. [✅ Fact and Veracity Checking](#Fact-Veracity-Checking)
+3. [✅ Fact and Veracity Checking](#Fact-and-eracity-Checking)
 4. [🗂 Glossaries](#Glossaries)
 5. [🏢 Research Labs](#Research-Labs-Partnerships)
 6. [📄 Surveys and Reports](#Surveys-and-Reports)
@@ -56,7 +56,7 @@ of Misinformation in News Articles. [`Data`](https://dataverse.harvard.edu/datas
 - **EUvsDisinfo**: a continuously updated collection of disinformation cases in multiple languages from all over the world. [`Data`](https://euvsdisinfo.eu/disinformation-cases/)
 
 
-## <a name="Fact-Veracity-Checking"></a> ✅ Fact and Veracity Checking
+## <a name="Fact-and-Veracity-Checking"></a> ✅ Fact and Veracity Checking
 - [Africa Check](https://africacheck.org/)
 - [Briefr](https://beta.briefr.cc/briefs/all/)
 - [Chequeado](https://chequeado.com/)
