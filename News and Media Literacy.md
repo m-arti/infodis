@@ -56,6 +56,8 @@ This is a curated list of resources for  teaching and learning news and media li
 
 - [5 tips for fact-checking datasets](https://www.poynter.org/fact-checking/2015/5-tips-for-fact-checking-datasets/) (Poynter)
 
+- [Novedades del área de Educación](https://chequeado.com/educacion/) (Chequeado)
+
 - [Fact-checking for educators and future voters](https://www.faktabaari.fi/assets/FactBar_EDU_Fact-checking_for_educators_and_future_voters_13112018.pdf) (FactBar EDU)
 
 - [Fake News and News Bias](http://library.bu.edu/fakenews) (Boston University Libraries): guides on fact checking and bias recognition.
@@ -73,7 +75,7 @@ This is a curated list of resources for  teaching and learning news and media li
 
 - [Fake news and critical literacy resources](https://literacytrust.org.uk/resources/fake-news-and-critical-literacy-resources/) (National Literacy Trust): a series of fake news and critical literacy teaching resources for parents, and primary and secondary educators.
 
-- [Método de Verificación del Debate Público](https://chequeado.com/metodo/) (chequeado)
+- [Método de Verificación del Debate Público](https://chequeado.com/metodo/) (Chequeado)
 
 - [News & Media Literacy Curriculum Resources](https://www.commonsense.org/education/toolkit/news-and-media-literacy) (Common Sense): learning resources and classroom activities for Grades K-2, 3-5, 6-8 and 9-12.
 
@@ -112,8 +114,9 @@ This is a curated list of resources for  teaching and learning news and media li
     - [WHO World Health Data Platform](https://www.who.int/data)
     - [World Bank Open Data](https://data.worldbank.org/)
     - **Apps**
-      - FactStream [`App Store`](https://apps.apple.com/us/app/factstream/id1327422405)
-      - Logically [`App Store`](https://apps.apple.com/us/app/logically/id1463956713) [`Google Play`](https://play.google.com/store/apps/details?id=com.logically)
+      - FactStream, by [Duke University](https://www.factstream.co/) [`App Store`](https://apps.apple.com/us/app/factstream/id1327422405)
+      - Logically, by [Logically](https://www.logically.co.uk/) [`App Store`](https://apps.apple.com/us/app/logically/id1463956713) [`Google Play`](https://play.google.com/store/apps/details?id=com.logically)
+      - Newstrition, by [our.news](https://our.news/) [`App Store`](https://apps.apple.com/app/id1460319017)
 
 
 - **Videos**

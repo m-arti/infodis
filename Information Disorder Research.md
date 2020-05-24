@@ -7,16 +7,22 @@ This is a curated list of resources for research on various kinds of information
 ## Contents
 1. [📅 Conferences and Workshops](#Conferences-and-Workshops)
 2. [📁 Datasets](#Datasets)
-3. [🗂 Glossaries](#Glossaries)
-4. [🏢 Research Labs](#Research-Labs-Partnerships)
-5. [📄 Surveys and Reports](#Surveys-and-Reports)
-6. [📝 Tutorials](#Tutorials)
+3. [✅ Fact and Veracity Checking](#Fact-Veracity-Checking)
+4. [🗂 Glossaries](#Glossaries)
+5. [🏢 Research Labs](#Research-Labs-Partnerships)
+6. [📄 Surveys and Reports](#Surveys-and-Reports)
+7. [📝 Tutorials](#Tutorials)
 
 
 ## <a name="Conferences-and-Workshops"></a> 📅 Conferences and Workshops
 David Lazer, Matthew Baum, Nir Grinberg, Lisa Friedland, Kenneth Joseph, Will Hobbs, and Carolina Mattsson. May 2017 (Conference held February 17-18, 2017). Combating Fake News: An Agenda for Research and Action. Cambridge, MA, USA. [`Schedule`](https://shorensteincenter.org/wp-content/uploads/2017/02/Fake-News-Conference_Final-Program.pdf) [`PDF`](https://pdfs.semanticscholar.org/6db0/f7c6023efae688253dc95617e11108547e7e.pdf) [`Web`](https://shorensteincenter.org/combating-fake-news-agenda-for-research/)
 
 Understanding and Addressing the Disinformation Ecosystem. Annenberg School for Communication. December 2017. (Workshop held December 15-16, 2017). Philadelphia, PA, USA. [`PDF`](https://firstdraftnews.org/wp-content/uploads/2018/03/The-Disinformation-Ecosystem-20180207-v2.pdf?utm_content=buffer2cbef&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+**Programmes, Fellowships and Summer Schools**
+- [GATE Training Course](https://gate.ac.uk/family/training.html) @ Uni. of Sheffield | 5 Days
+- [Google News Initiative Fellowship](https://newsinitiative.withgoogle.com/training/fellowship)
+- [Summer Doctoral Programme](https://www.oii.ox.ac.uk/study/summer-doctoral-programme/) @ Oxford Internet Institute, Uni. of Oxford | 2 Weeks
 
 
 ## <a name="Datasets"></a> 📁 Datasets
@@ -50,6 +56,34 @@ of Misinformation in News Articles. [`Data`](https://dataverse.harvard.edu/datas
 - **EUvsDisinfo**: a continuously updated collection of disinformation cases in multiple languages from all over the world. [`Data`](https://euvsdisinfo.eu/disinformation-cases/)
 
 
+## <a name="Fact-Veracity-Checking"></a> ✅ Fact and Veracity Checking
+- [Africa Check](https://africacheck.org/)
+- [Briefr](https://beta.briefr.cc/briefs/all/)
+- [Chequeado](https://chequeado.com/)
+- [Emergent](http://www.emergent.info/)
+- [EUvsDisinfo](https://euvsdisinfo.eu/)
+- [FactCheck.org](https://www.factcheck.org/)
+- [FactCheckNI](https://factcheckni.org/)
+- [FactWatcher](https://idir.uta.edu/factwatcher/)
+- [Fiskkit](https://fiskkit.com/)
+- [Full Fact](https://fullfact.org/)
+- [Google News](https://news.google.com/)
+- [Hoaxy](https://hoaxy.iuni.iu.edu/)
+- [Logically](https://www.logically.co.uk/)
+- [Junk News Aggregator](https://newsaggregator.oii.ox.ac.uk/)
+- [Media Bias / Fact Check](https://mediabiasfactcheck.com/)
+- [NewsCheck](https://www.newscheck.com/)
+- [our.news](https://our.news/)
+- [PolitiFact](https://www.politifact.com/)
+- [Poynter Fact-checking](https://www.poynter.org/channels/fact-checking/)
+- [Snopes](https://www.snopes.com/)
+- [TwitterTrails](http://twittertrails.com/)
+- [WikiTribune](https://wt.social/)
+- **Annotation and Analysis**
+  - [FrameTrail](https://frametrail.org/)
+  - [Hypothesis](https://web.hypothes.is/)
+
+
 ## <a name="Glossaries"></a> 🗂 Glossaries
 Caroline Jack. 2017. *Lexicon of Lies: Terms for Problematic Information*, Data & Society Research Institute. [`PDF`](https://datasociety.net/pubs/oh/DataAndSociety_LexiconofLies.pdf) [`Web`](https://datasociety.net/output/lexicon-of-lies/)
 
@@ -59,8 +93,6 @@ Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disor
 ## <a name="News-Labs-Initiatives"></a> 📰 News Labs & Initiatives
 - [BBC News Labs](https://bbcnewslabs.co.uk/) [`Github`](https://github.com/BBC-News-Labs)
 - [EU DisinfoLab](https://www.disinfo.eu/)
-- [EUvsDisinfo](https://euvsdisinfo.eu/)
-- [Logically](https://www.logically.co.uk/)
 - [Meedan](https://meedan.com/about) [`Github`](https://github.com/meedan)
 - [MediaWell](https://mediawell.ssrc.org/) @ Social Science Research Council (SSRC)
 - [The Obsidian Collection](https://www.theobsidiancollection.org/what-we-do)
@@ -72,9 +104,6 @@ Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disor
   - [Graphika](https://www.graphika.com/), US
 
 
-
-
-
 ## <a name="Research-Labs-Partnerships"></a> 🏢 Research Labs & Partnerships
 - [Data & Society](https://datasociety.net/)
 - [Public Data Lab](https://www.publicdatalab.org/) [`Github`](https://github.com/PublicDataLab/)
@@ -83,9 +112,11 @@ Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disor
   - [Duke Reporters' Lab](https://reporterslab.org/) @ the Sanford Sch. of Public Policy, Duke University
   - [The News Integrity Initiative](https://www.journalism.cuny.edu/centers/tow-knight-center-entrepreneurial-journalism/news-integrity-initiative/) @ the Newmark J-School, CUNY
   - [Observatory on Social Media (OSoMe)](https://osome.iu.edu/) @ Indiana University
+  - [Tow Centre for Digital Journalism](https://towcenter.columbia.edu/) @ the Columbia Journalism Sch., Columbia University
 - **Partnerships**
   - [Credibility Coalition](https://credibilitycoalition.org/)
   - [Social Science One](https://socialscience.one/) @ Harvard University
+  - [The Trust Project](https://thetrustproject.org/)
 
 
 ## <a name="Surveys-and-Reports"></a> 📄 Surveys and Reports
