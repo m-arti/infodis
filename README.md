@@ -5,13 +5,13 @@ The aim of creating it is to make it easier for researchers, learners, teachers 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 The resources are categorised as:
- - [Information Disorder Detection](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Detection.md) \
+ - [Information Disorder Research](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Research.md) \
   Resources for academic research:
-    - 📅 [Conferences and Workshops](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Detection.md#Conferences-and-Workshops)
-    - 📁 [Datasets](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Detection.md#Datasets)
-    - 🗂 [Glossaries](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Detection.md#Glossaries)
-    - 📄 [Surveys and Reports](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Detection.md#Surveys-and-Reports)
-    - 📝 [Tutorials](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Detection.md#Tutorials)
+    - 📅 [Conferences and Workshops](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Research.md#Conferences-and-Workshops)
+    - 📁 [Datasets](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Research.md#Datasets)
+    - 🗂 [Glossaries](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Research.md#Glossaries)
+    - 📄 [Surveys and Reports](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Research.md#Surveys-and-Reports)
+    - 📝 [Tutorials](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Research.md#Tutorials)
 
 
  - [News and Media Literacy](https://github.com/m-arti/infodis/blob/master/News%20and%20Media%20Literacy.md) \

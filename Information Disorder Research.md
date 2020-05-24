@@ -1,4 +1,4 @@
-# Information Disorder Detection: Datasets &amp; Resources
+# Information Disorder Research: Datasets &amp; Resources
 This is a curated list of resources for research on various kinds of information disorder, such as fake news, rumours and satire.
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
