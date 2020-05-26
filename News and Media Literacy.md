@@ -124,6 +124,8 @@ This is a curated list of resources for  teaching and learning news and media li
 
 
 ## <a name="Podcasts-Talk-Shows"></a> 🎙 Podcasts and Talk Shows
+- [Fake news realted podcasts @ Uni. of Oxford](https://podcasts.ox.ac.uk/keywords/fake-news)
+- The Fake News Podcast by Freddie Quinne? [`Spotify`](https://open.spotify.com/show/3EwFA4mX2AM7divyR8jB1i) [`TuneIn`](https://tunein.com/podcasts/Comedy-Podcasts/The-Fake-News-Podcast-p1289173/)
 - [Soundcloud Playlist](https://soundcloud.com/martinssamuel/sets/infodis)
 - 25 May 2020, [Fact-Checking in a Post-Truth World](https://thefirethisti.me/2020/05/25/24-bellingcat-fact-checking-in-a-post-truth-world/) (Bellingcat)
 
