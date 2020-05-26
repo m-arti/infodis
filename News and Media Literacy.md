@@ -124,7 +124,9 @@ This is a curated list of resources for  teaching and learning news and media li
 
 
 ## <a name="Podcasts-Talk-Shows"></a> 🎙 Podcasts and Talk Shows
-- [Soundcloud](https://soundcloud.com/martinssamuel/sets/infodis)
+- [Soundcloud Playlist](https://soundcloud.com/martinssamuel/sets/infodis)
+- 25 May 2020, [Fact-Checking in a Post-Truth World](https://thefirethisti.me/2020/05/25/24-bellingcat-fact-checking-in-a-post-truth-world/) (Bellingcat)
+
 
 
 ## <a name="Policies"></a> 📜 Policies
