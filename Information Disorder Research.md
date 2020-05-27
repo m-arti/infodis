@@ -11,7 +11,8 @@ This is a curated list of resources for research on various kinds of information
 4. [🗂 Glossaries](#Glossaries)
 5. [🏢 Research Labs](#Research-Labs-Partnerships)
 6. [📄 Surveys and Reports](#Surveys-and-Reports)
-7. [📝 Tutorials](#Tutorials)
+7. [🔎 Research Tools](#Research-Tools)
+8. [📝 Tutorials](#Tutorials)
 
 
 ## <a name="Conferences-and-Workshops"></a> 📅 Conferences and Workshops
@@ -92,12 +93,16 @@ Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disor
 
 ## <a name="News-Labs-Initiatives"></a> 📰 News Labs & Initiatives
 - [BBC News Labs](https://bbcnewslabs.co.uk/) [`Github`](https://github.com/BBC-News-Labs)
+- [Better News](https://betternews.org/) (American Press Institute & Knight-Lenfest Newsroom Initiative)
+- [Co-Inform](https://coinform.eu/)
 - [EU DisinfoLab](https://www.disinfo.eu/)
+- [Google Jigsaw](https://jigsaw.google.com/)
 - [Meedan](https://meedan.com/about) [`Github`](https://github.com/meedan)
 - [MediaWell](https://mediawell.ssrc.org/) @ Social Science Research Council (SSRC)
 - [The Obsidian Collection](https://www.theobsidiancollection.org/what-we-do)
 - [RoBHat Labs](https://www.robhat.com/)
 - **Companies**
+  - [Astroscreen](https://www.astroscreen.com/), UK
   - [Blackbird.ai](https://www.blackbird.ai/), US
   - [Fabula.ai](https://web.archive.org/web/20190621033103/https://fabula.ai/), UK (Acquired by Twitter)
   - [Factmata](https://factmata.com/), UK
@@ -108,13 +113,17 @@ Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disor
 - [Data & Society](https://datasociety.net/)
 - [Public Data Lab](https://www.publicdatalab.org/) [`Github`](https://github.com/PublicDataLab/)
 - **At universities**
+  - [Center for News Literacy](https://www.centerfornewsliteracy.org/) @ Stony Brook Uni. Sch. of Journalism
   - [Discourse Processing Lab](http://www.sfu.ca/discourse-lab.html) @ Simon Fraser University [`Github`](https://github.com/sfu-discourse-lab)
   - [Duke Reporters' Lab](https://reporterslab.org/) @ the Sanford Sch. of Public Policy, Duke University
+  - [News Co/Lab](https://newscollab.org/) @ Arizona State University
   - [The News Integrity Initiative](https://www.journalism.cuny.edu/centers/tow-knight-center-entrepreneurial-journalism/news-integrity-initiative/) @ the Newmark J-School, CUNY
   - [Observatory on Social Media (OSoMe)](https://osome.iu.edu/) @ Indiana University
   - [Tow Centre for Digital Journalism](https://towcenter.columbia.edu/) @ the Columbia Journalism Sch., Columbia University
 - **Partnerships**
+  - [Facebook Journalism Project](https://www.facebook.com/journalismproject)
   - [Credibility Coalition](https://credibilitycoalition.org/)
+  - [Google News Initiative](https://newsinitiative.withgoogle.com/)
   - [Social Science One](https://socialscience.one/) @ Harvard University
   - [The Trust Project](https://thetrustproject.org/)
 
@@ -149,6 +158,10 @@ Savvas Zannettou, Michael Sirivianos, Jeremy Blackburn, and Nicolas Kourtellis. 
 Xinyi Zhou and Reza Zafarani. 2018. Fake News: A Survey of Research, Detection Methods, and Opportunities. arXiv:1812.00315. [`PDF`](https://arxiv.org/pdf/1812.00315.pdf)
 
 Arkaitz Zubiaga, Ahmet Aker, Kalina Bontcheva, Maria Liakata, and Rob Procter. 2018. Detection and resolution of rumours in social media: A survey. arXiv:1704.00656. [`PDF`](https://arxiv.org/pdf/1704.00656.pdf)
+
+
+## <a name="Research-Tools"></a> 🔎 Research Tools
+- [Perspective API](https://www.perspectiveapi.com/#/home): machine learning models which score the perceived impact (based on toxicity, insult, profanity, etc.) a comment might have on a conversation. [`Github`](https://github.com/conversationai/perspectiveapi)
 
 
 ## <a name="Tutorials"></a> 📝 Tutorials

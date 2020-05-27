@@ -34,6 +34,7 @@ This is a curated list of resources for  teaching and learning news and media li
 - [Arizona State University News Co/Lab](https://newscollab.org/)
 - [Better News](https://betternews.org/) (American Press Institute & Knight-Lenfest Newsroom Initiative)
 - [Center for News Literacy @ Stony Brook Uni. Sch. of Journalism](https://www.centerfornewsliteracy.org/)
+- [Co-Inform](https://coinform.eu/)
 - [Common Sense Education](https://www.commonsense.org/education/)
 - [Facebook Journalism Project](https://www.facebook.com/journalismproject)
 - [Google News Initiative](https://newsinitiative.withgoogle.com/)
@@ -124,7 +125,7 @@ This is a curated list of resources for  teaching and learning news and media li
 
 
 ## <a name="Podcasts-Talk-Shows"></a> 🎙 Podcasts and Talk Shows
-- [Fake news realted podcasts @ Uni. of Oxford](https://podcasts.ox.ac.uk/keywords/fake-news)
+- [Fake news related podcasts @ Uni. of Oxford](https://podcasts.ox.ac.uk/keywords/fake-news)
 - The Fake News Podcast by Freddie Quinne? [`Spotify`](https://open.spotify.com/show/3EwFA4mX2AM7divyR8jB1i) [`TuneIn`](https://tunein.com/podcasts/Comedy-Podcasts/The-Fake-News-Podcast-p1289173/)
 - [Soundcloud Playlist](https://soundcloud.com/martinssamuel/sets/infodis)
 - 25 May 2020, [Fact-Checking in a Post-Truth World](https://thefirethisti.me/2020/05/25/24-bellingcat-fact-checking-in-a-post-truth-world/) (Bellingcat)
