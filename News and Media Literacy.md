@@ -78,6 +78,8 @@ This is a curated list of resources for  teaching and learning news and media li
 
 - [Método de Verificación del Debate Público](https://chequeado.com/metodo/) (Chequeado)
 
+- [Misinformation Review](https://misinforeview.hks.harvard.edu/) (Harvard Kennedy School)
+
 - [News & Media Literacy Curriculum Resources](https://www.commonsense.org/education/toolkit/news-and-media-literacy) (Common Sense): learning resources and classroom activities for Grades K-2, 3-5, 6-8 and 9-12.
 
 - [NewsGuard News Literacy Resources](https://www.newsguardtech.com/news-literacy/)

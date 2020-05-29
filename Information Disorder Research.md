@@ -104,6 +104,7 @@ Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disor
 - **Companies**
   - [Astroscreen](https://www.astroscreen.com/), UK
   - [Blackbird.ai](https://www.blackbird.ai/), US
+  - [Crisp](https://www.crispthinking.com/), UK|US
   - [Fabula.ai](https://web.archive.org/web/20190621033103/https://fabula.ai/), UK (Acquired by Twitter)
   - [Factmata](https://factmata.com/), UK
   - [Graphika](https://www.graphika.com/), US
@@ -158,6 +159,9 @@ Savvas Zannettou, Michael Sirivianos, Jeremy Blackburn, and Nicolas Kourtellis. 
 Xinyi Zhou and Reza Zafarani. 2018. Fake News: A Survey of Research, Detection Methods, and Opportunities. arXiv:1812.00315. [`PDF`](https://arxiv.org/pdf/1812.00315.pdf)
 
 Arkaitz Zubiaga, Ahmet Aker, Kalina Bontcheva, Maria Liakata, and Rob Procter. 2018. Detection and resolution of rumours in social media: A survey. arXiv:1704.00656. [`PDF`](https://arxiv.org/pdf/1704.00656.pdf)
+
+- **Journals**
+  - [Misinformation Review](https://misinforeview.hks.harvard.edu/), Harvard Kennedy School
 
 
 ## <a name="Research-Tools"></a> 🔎 Research Tools

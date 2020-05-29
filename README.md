@@ -12,6 +12,7 @@ The resources are categorised as:
     - 📁 [Datasets](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Research.md#Datasets)
     - 🗂 [Glossaries](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Research.md#Glossaries)
     - 📄 [Surveys and Reports](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Research.md#Surveys-and-Reports)
+    - 🔎 [Research Tools](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Research.md#Research-Tools)
     - 📝 [Tutorials](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Research.md#Tutorials)
 
 
