@@ -9,10 +9,11 @@ This is a curated list of resources for  teaching and learning news and media li
 2. [📅 Events](#Events)
 3. [💡 Initiatives and Reports](#Initiatives-Projects)
 4. [📝 Learning and Teaching Resources](#Learning-and-Teaching-Resources)
-5. [🎙 Podcasts and Talk Shows](#Podcasts-Talk-Shows)
-6. [📜 Policies](#Policies)
-7. [📊 Reports](#Reports)
-8. [🖥 Webinars](#Webinars)
+5. [✉️ Newlwtters](#Newsletters)
+6. [🎙 Podcasts and Talk Shows](#Podcasts-Talk-Shows)
+7. [📜 Policies](#Policies)
+8. [📊 Reports](#Reports)
+9. [🖥 Webinars](#Webinars)
 
 
 ## <a name="Books"></a> 📚 Books
@@ -124,6 +125,10 @@ This is a curated list of resources for  teaching and learning news and media li
 
 - **Videos**
   - [How to Spot Fake News](https://www.youtube.com/watch?v=AkwWcHekMdo) (FactCheck.org)
+
+
+## <a name="Newsletters"></a> ✉️ Newsletters
+- [Matter of Facts](https://www.deepnews.ai/newsletters/matter-of-facts/) (Deepnews.ai) 
 
 
 ## <a name="Podcasts-Talk-Shows"></a> 🎙 Podcasts and Talk Shows
