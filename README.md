@@ -22,6 +22,7 @@ The resources are categorised as:
     - 📅 [Events](https://github.com/m-arti/infodis/blob/master/News%20and%20Media%20Literacy.md#Events)
     - 💡 [Initiatives and Projects](https://github.com/m-arti/infodis/blob/master/News%20and%20Media%20Literacy.md#Initiatives-Projects)
     - 📝 [Learning and Teaching Resources](https://github.com/m-arti/infodis/blob/master/News%20and%20Media%20Literacy.md#Learning-and-Teaching-Resources)
+    - ✉️ [Newsletters](https://github.com/m-arti/infodis/blob/master/News%20and%20Media%20Literacy.md#Newsletters)
     - 🎙 [Podcasts and Talk Shows](https://github.com/m-arti/infodis/blob/master/News%20and%20Media%20Literacy.md#Podcasts-Talk-Shows)
     - 📜 [Policies](https://github.com/m-arti/infodis/blob/master/News%20and%20Media%20Literacy.md#Policies)
     - 📊 [Reports](https://github.com/m-arti/infodis/blob/master/News%20and%20Media%20Literacy.md#Reports)
