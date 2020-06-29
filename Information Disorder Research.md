@@ -25,6 +25,9 @@ Understanding and Addressing the Disinformation Ecosystem. Annenberg School for 
 - [Google News Initiative Fellowship](https://newsinitiative.withgoogle.com/training/fellowship)
 - [Summer Doctoral Programme](https://www.oii.ox.ac.uk/study/summer-doctoral-programme/) @ Oxford Internet Institute, Uni. of Oxford | 2 Weeks
 
+**Workshops**
+- [International Workshop on News Recommendation and Analytics (INRA)](http://research.idi.ntnu.no/inra)
+
 
 ## <a name="Datasets"></a> 📁 Datasets
 
