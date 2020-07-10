@@ -168,7 +168,15 @@ Arkaitz Zubiaga, Ahmet Aker, Kalina Bontcheva, Maria Liakata, and Rob Procter. 2
 
 
 ## <a name="Research-Tools"></a> 🔎 Research Tools
-- [Perspective API](https://www.perspectiveapi.com/#/home): machine learning models which score the perceived impact (based on toxicity, insult, profanity, etc.) a comment might have on a conversation. [`Github`](https://github.com/conversationai/perspectiveapi)
+
+- **APIs**
+  - [Perspective API](https://www.perspectiveapi.com/#/home): machine learning models which score the perceived impact (based on toxicity, insult, profanity, etc.) a comment might have on a conversation. [`Github`](https://github.com/conversationai/perspectiveapi)
+
+- **Libraries**
+  - [Gensim](https://radimrehurek.com/gensim/): a Python library for topic modelling, document indexing and similarity retrieval with large corpora. [`Github`](https://github.com/RaRe-Technologies/gensim) [`PyPI`](https://pypi.org/project/gensim/)
+  - [Newspaper3k](https://newspaper.readthedocs.io/en/latest/): article scraping & curation. [`Github`](https://github.com/codelucas/newspaper) [`PyPI`](https://pypi.org/project/newspaper/)
+  - [NLTK](http://www.nltk.org/): a Python package for natural language processing. [`Github`](https://github.com/nltk/nltk) [`PyPI`](https://pypi.org/project/nltk/)
+  - [Scikit-learn](https://scikit-learn.org/stable/): a set of python modules for machine learning and data mining. [`Github`](https://github.com/scikit-learn/scikit-learn) [`PyPI`](https://pypi.org/project/scikit-learn/)
 
 
 ## <a name="Tutorials"></a> 📝 Tutorials
