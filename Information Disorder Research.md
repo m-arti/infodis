@@ -165,13 +165,13 @@ Arkaitz Zubiaga, Ahmet Aker, Kalina Bontcheva, Maria Liakata, and Rob Procter. 2
 
 - **Journals**
   - [Misinformation Review](https://misinforeview.hks.harvard.edu/), Harvard Kennedy School
-  - [Google Fact Check Tools API](https://developers.google.com/fact-check/tools/api/), Google
 
 
 ## <a name="Research-Tools"></a> 🔎 Research Tools
 
 - **APIs**
   - [Perspective API](https://www.perspectiveapi.com/#/home): machine learning models which score the perceived impact (based on toxicity, insult, profanity, etc.) a comment might have on a conversation. [`Github`](https://github.com/conversationai/perspectiveapi)
+  - [Google Fact Check Tools API](https://developers.google.com/fact-check/tools/api/), Google
 
 - **Libraries**
   - [Gensim](https://radimrehurek.com/gensim/): topic modelling, document indexing and similarity retrieval with large corpora. [`Github`](https://github.com/RaRe-Technologies/gensim) [`PyPI`](https://pypi.org/project/gensim/)
