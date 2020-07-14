@@ -165,6 +165,7 @@ Arkaitz Zubiaga, Ahmet Aker, Kalina Bontcheva, Maria Liakata, and Rob Procter. 2
 
 - **Journals**
   - [Misinformation Review](https://misinforeview.hks.harvard.edu/), Harvard Kennedy School
+  - [Google Fact Check Tools API](https://developers.google.com/fact-check/tools/api/), Google
 
 
 ## <a name="Research-Tools"></a> 🔎 Research Tools
