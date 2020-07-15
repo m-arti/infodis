@@ -26,4 +26,5 @@ The resources are categorised as:
     - 🎙 [Podcasts and Talk Shows](https://github.com/m-arti/infodis/blob/master/News%20and%20Media%20Literacy.md#Podcasts-Talk-Shows)
     - 📜 [Policies](https://github.com/m-arti/infodis/blob/master/News%20and%20Media%20Literacy.md#Policies)
     - 📊 [Reports](https://github.com/m-arti/infodis/blob/master/News%20and%20Media%20Literacy.md#Reports)
+    - 📱 [Tools](https://github.com/m-arti/infodis/blob/master/News%20and%20Media%20Literacy.md#Tools)
     - 🖥 [Webinars](https://github.com/m-arti/infodis/blob/master/News%20and%20Media%20Literacy.md#Webinars)
