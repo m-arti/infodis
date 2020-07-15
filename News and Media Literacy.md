@@ -9,7 +9,7 @@ This is a curated list of resources for  teaching and learning news and media li
 2. [📅 Events](#Events)
 3. [💡 Initiatives and Projects](#Initiatives-Projects)
 4. [📝 Learning and Teaching Resources](#Learning-and-Teaching-Resources)
-5. [✉️ Newlwtters](#Newsletters)
+5. [✉️ Newletters](#Newsletters)
 6. [🎙 Podcasts and Talk Shows](#Podcasts-Talk-Shows)
 7. [📜 Policies](#Policies)
 8. [📊 Reports](#Reports)
@@ -33,6 +33,7 @@ This is a curated list of resources for  teaching and learning news and media li
 
 
 ## <a name="Initiatives-Projects"></a> 💡 Initiatives & Projects
+- [AllSides](https://www.allsides.com/unbiased-balanced-news)
 - [Arizona State University News Co/Lab](https://newscollab.org/)
 - [Better News](https://betternews.org/) (American Press Institute & Knight-Lenfest Newsroom Initiative)
 - [Center for News Literacy @ Stony Brook Uni. Sch. of Journalism](https://www.centerfornewsliteracy.org/)
