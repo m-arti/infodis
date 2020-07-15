@@ -7,7 +7,7 @@ This is a curated list of resources for research on various kinds of information
 ## Contents
 1. [📅 Conferences and Workshops](#Conferences-and-Workshops)
 2. [📁 Datasets](#Datasets)
-3. [✅ Fact and Veracity Checking](#Fact-and-eracity-Checking)
+3. [✅ Fact and Veracity Checking](#Fact-and-Veracity-Checking)
 4. [🗂 Glossaries](#Glossaries)
 5. [🏢 Research Labs](#Research-Labs-Partnerships)
 6. [📄 Surveys and Reports](#Surveys-and-Reports)
@@ -50,8 +50,10 @@ Understanding and Addressing the Disinformation Ecosystem. Annenberg School for 
 
 - **ISOT**: created by the Information Security and Object Technology (ISOT) research lab, at the University of Victoria. Real articles were obtained from Reuters.com and fake articles were identified using fact-checking sites Politifact.com, and Wikipedia). [`Data`](https://drive.google.com/file/d/1IoTRrJNDJqvaG3hnUpnHQyGvPAJbO8y3/view) [`Paper 1`](https://onlinelibrary.wiley.com/doi/epdf/10.1002/spy2.9) [`Paper 2`](https://www.uvic.ca/engineering/ece/isot/assets/docs/Detection%20of%20Online%20Fake%20News%20Using%20N-Gram.pdf)
 
-- **NELA-GT-2018**: A Large Multi-Labelled News Dataset for The Study
-of Misinformation in News Articles. [`Data`](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ULHLCB) [`Paper`](https://arxiv.org/pdf/1904.01546.pdf)
+- **NELA Datasets**: A Large Multi-Labelled News Dataset for The Study of Misinformation in News Articles. [`All Datasets`](https://dataverse.harvard.edu/dataverse/nela)
+  - **NELA2017**: [`Data`](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZCXSKG) [`Paper`](https://arxiv.org/abs/1803.10124)
+  - **NELA-GT-2018**: [`Data`](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ULHLCB) [`Paper`](https://arxiv.org/pdf/1904.01546.pdf)
+  - **NELA-GT-2019**: [`Data`](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O7FWPO) [`Paper`](https://arxiv.org/abs/2003.08444)
 
 - **SVDC: Dataset for fake news and articles detection**: news on conflict in Syria. Articles were verified using information provided by the Syrian Violations Documentation Centre. [`Data`](https://zenodo.org/record/2532642)
 
