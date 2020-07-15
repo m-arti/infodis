@@ -178,6 +178,7 @@ Arkaitz Zubiaga, Ahmet Aker, Kalina Bontcheva, Maria Liakata, and Rob Procter. 2
   - [NetworkX](http://networkx.github.io/): creation, manipulation, and study of the structure, dynamics, and functions of complex networks. [`Github`](https://github.com/networkx/networkx) [`PyPI`](https://pypi.org/project/networkx/)
   - [Newspaper3k](https://newspaper.readthedocs.io/en/latest/): article scraping & curation. [`Github`](https://github.com/codelucas/newspaper) [`PyPI`](https://pypi.org/project/newspaper/)
   - [NLTK](http://www.nltk.org/): natural language processing toolkit. [`Github`](https://github.com/nltk/nltk) [`PyPI`](https://pypi.org/project/nltk/)
+  - [Readability](https://github.com/andreasvc/readability/): traditional readability measures based on simple surface characteristics. [`Github`](https://github.com/andreasvc/readability/) [`PyPI`](https://pypi.org/project/readability/)
   - [Scikit-learn](https://scikit-learn.org/stable/): modules for machine learning and data mining. [`Github`](https://github.com/scikit-learn/scikit-learn) [`PyPI`](https://pypi.org/project/scikit-learn/)
 
 
