@@ -13,7 +13,8 @@ This is a curated list of resources for  teaching and learning news and media li
 6. [🎙 Podcasts and Talk Shows](#Podcasts-Talk-Shows)
 7. [📜 Policies](#Policies)
 8. [📊 Reports](#Reports)
-9. [🖥 Webinars](#Webinars)
+9. [📱 Tools](#Tools)
+10. [🖥 Webinars](#Webinars)
 
 
 ## <a name="Books"></a> 📚 Books
@@ -151,6 +152,12 @@ This is a curated list of resources for  teaching and learning news and media li
   - National Council for the Social Studies, 2018. *Social Education September 2018*. [`Papers`](https://www.socialstudies.org/publications/socialeducation/september2018)
   - Reuters Institute, 2018. *The Impact of Greater News Literacy (in Reuters Institute  Digital News Report 2018)*. [`PDF`](http://media.digitalnewsreport.org/wp-content/uploads/2018/06/digital-news-report-2018.pdf) [`Web`](http://www.digitalnewsreport.org/survey/2018/the-impact-of-greater-news-literacy/)
   - Stanford History Education Group, 2016. *Evaluating Information: The Cornerstone of Civic Online Reasoning*. [`PDF`](https://stacks.stanford.edu/file/druid:fv751yt5934/SHEG%20Evaluating%20Information%20Online.pdf)
+  
+
+## <a name="Tools"></a> 📱 Tools
+- **Browser plugins**
+    - [NewsGuard](https://www.newsguardtech.com/) [`Chrome`](https://chrome.google.com/webstore/detail/newsguard/hcgajcpgaalgpeholhdooeddllhedegi) [`Firefox`](https://addons.mozilla.org/en-US/firefox/addon/newsguard/)
+    - [Trusted News](https://trusted-news.com/) [`Chrome`](https://chrome.google.com/webstore/detail/trusted-news/nkkghpncidknplmlkgemdoekpckjmlok)
 
 
 ## <a name="Webinars"></a> 🖥 Webinars
