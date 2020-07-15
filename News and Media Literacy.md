@@ -7,7 +7,7 @@ This is a curated list of resources for  teaching and learning news and media li
 ## Contents
 1. [📚 Books](#Books)
 2. [📅 Events](#Events)
-3. [💡 Initiatives and Reports](#Initiatives-Projects)
+3. [💡 Initiatives and Projects](#Initiatives-Projects)
 4. [📝 Learning and Teaching Resources](#Learning-and-Teaching-Resources)
 5. [✉️ Newlwtters](#Newsletters)
 6. [🎙 Podcasts and Talk Shows](#Podcasts-Talk-Shows)
