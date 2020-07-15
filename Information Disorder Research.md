@@ -180,6 +180,7 @@ Arkaitz Zubiaga, Ahmet Aker, Kalina Bontcheva, Maria Liakata, and Rob Procter. 2
   - [NLTK](http://www.nltk.org/): natural language processing toolkit. [`Github`](https://github.com/nltk/nltk) [`PyPI`](https://pypi.org/project/nltk/)
   - [Readability](https://github.com/andreasvc/readability/): traditional readability measures based on simple surface characteristics. [`Github`](https://github.com/andreasvc/readability/) [`PyPI`](https://pypi.org/project/readability/)
   - [Scikit-learn](https://scikit-learn.org/stable/): modules for machine learning and data mining. [`Github`](https://github.com/scikit-learn/scikit-learn) [`PyPI`](https://pypi.org/project/scikit-learn/)
+  - [spaCy](https://spacy.io/): industrial-strength natural language processing. [`Github`](https://github.com/explosion/spaCy) [`PyPI`](https://pypi.org/project/spacy/)
 
 
 ## <a name="Tutorials"></a> 📝 Tutorials
