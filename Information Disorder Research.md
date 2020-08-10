@@ -178,11 +178,12 @@ Arkaitz Zubiaga, Ahmet Aker, Kalina Bontcheva, Maria Liakata, and Rob Procter. 2
 - **Libraries**
   - [Gensim](https://radimrehurek.com/gensim/): topic modelling, document indexing and similarity retrieval with large corpora. [`Github`](https://github.com/RaRe-Technologies/gensim) [`PyPI`](https://pypi.org/project/gensim/)
   - [NetworkX](http://networkx.github.io/): creation, manipulation, and study of the structure, dynamics, and functions of complex networks. [`Github`](https://github.com/networkx/networkx) [`PyPI`](https://pypi.org/project/networkx/)
-  - [Newspaper3k](https://newspaper.readthedocs.io/en/latest/): article scraping & curation. [`Github`](https://github.com/codelucas/newspaper) [`PyPI`](https://pypi.org/project/newspaper/)
+  - [Newspaper3k](https://newspaper.readthedocs.io/en/latest/): article scraping and curation. [`Github`](https://github.com/codelucas/newspaper) [`PyPI`](https://pypi.org/project/newspaper/)
   - [NLTK](http://www.nltk.org/): natural language processing toolkit. [`Github`](https://github.com/nltk/nltk) [`PyPI`](https://pypi.org/project/nltk/)
   - [Readability](https://github.com/andreasvc/readability/): traditional readability measures based on simple surface characteristics. [`Github`](https://github.com/andreasvc/readability/) [`PyPI`](https://pypi.org/project/readability/)
   - [Scikit-learn](https://scikit-learn.org/stable/): modules for machine learning and data mining. [`Github`](https://github.com/scikit-learn/scikit-learn) [`PyPI`](https://pypi.org/project/scikit-learn/)
   - [spaCy](https://spacy.io/): industrial-strength natural language processing. [`Github`](https://github.com/explosion/spaCy) [`PyPI`](https://pypi.org/project/spacy/)
+  - [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/): linguistic annotations, token and sentence boundaries, PoS, named entities, numeric and time values, dependency and constituency parses, coreference, sentiment, quote attributions, and relations. [`Github`](https://github.com/stanfordnlp/CoreNLP)
   - [The News Landscape Toolkit (NELA)](http://nelatoolkit.science/): toolkit for assessing news articles and sources. [`Github`](https://github.com/BenjaminDHorne/The-NELA-Toolkit)
 
 
