@@ -162,5 +162,6 @@ This is a curated list of resources for  teaching and learning news and media li
 
 
 ## <a name="Webinars"></a> 🖥 Webinars
-- Fact-Check It: Digital Tools to Verify Everything Online, [Poynter](https://www.poynter.org/shop/webinar/fact-check/) (Daniel Funke & Ren LaForme)
-- Fact-checking in an Era of Fake News and Misinformation, David N. Ofili [`Slides`](https://www.slideshare.net/Davenof/factchecking-in-an-era-of-fake-news-and-misinformation) [`Video`](https://www.youtube.com/watch?v=DMVpiCat5Wo)
+- Jul 2018 | Fact-Check It: Digital Tools to Verify Everything Online | [Poynter](https://www.poynter.org/shop/webinar/fact-check/) (Daniel Funke & Ren LaForme)
+- May 2020 | Fact-checking in an Era of Fake News and Misinformation | David N. Ofili [`Slides`](https://www.slideshare.net/Davenof/factchecking-in-an-era-of-fake-news-and-misinformation) [`Video`](https://www.youtube.com/watch?v=DMVpiCat5Wo)
+- Jun 2020 | Online Harms & Disinformation Post-COVID | The Alan Turing Institute [`Video`](https://www.youtube.com/watch?v=N2BmRuXbNhk)
