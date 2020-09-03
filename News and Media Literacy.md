@@ -130,7 +130,8 @@ This is a curated list of resources for  teaching and learning news and media li
 
 
 ## <a name="Newsletters"></a> ✉️ Newsletters
-- [Matter of Facts](https://www.deepnews.ai/newsletters/matter-of-facts/) (Deepnews.ai) 
+- [News Literacy Project](https://newslit.org/subscribe/)
+- [Matter of Facts](https://www.deepnews.ai/newsletters/matter-of-facts/) (Deepnews.ai)
 
 
 ## <a name="Podcasts-Talk-Shows"></a> 🎙 Podcasts and Talk Shows
