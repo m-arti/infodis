@@ -54,13 +54,13 @@ This is a curated list of resources for  teaching and learning news and media li
 
 - Caroline Jack and Monica Bulger. 2017. *Lexicon of Lies: Teaching Resources*, Data & Society Research Institute. [`PDF`](https://datasociety.net/pubs/oh/DataAndSociety_TeachingGuide_LexiconofLies.pdf) [`Web`](https://datasociety.net/output/lexicon-of-lies/)
 
+- [5 tips for fact-checking datasets](https://www.poynter.org/fact-checking/2015/5-tips-for-fact-checking-datasets/) (Poynter)
+
 - [A Field Guide to "Fake News" and Other Information Disorders](https://fakenews.publicdatalab.org/) (Public Data Lab) [`DOI`](https://doi.org/10.5281/zenodo.1136271) [`PDF`](https://zenodo.org/record/1136272/files/AFieldGuidetoFakeNews.pdf?download=1) [`Github`](https://github.com/PublicDataLab/fake-news-field-guide)
 
 - [#BotSpot: Twelve Ways to Spot a Bot](https://medium.com/dfrlab/botspot-twelve-ways-to-spot-a-bot-aedc7d9c110c) (Digital Forensic Research Lab @ Atlantic Council): some tricks to identify fake Twitter accounts.
 
-- [5 tips for fact-checking datasets](https://www.poynter.org/fact-checking/2015/5-tips-for-fact-checking-datasets/) (Poynter)
-
-- [Novedades del área de Educación](https://chequeado.com/educacion/) (Chequeado)
+- [Checkology](https://get.checkology.org/) (News Literacy Project): a virtual classroom where middle and high school students develop news literacy skills. 
 
 - [Fact-checking for educators and future voters](https://www.faktabaari.fi/assets/FactBar_EDU_Fact-checking_for_educators_and_future_voters_13112018.pdf) (FactBar EDU)
 
@@ -86,6 +86,8 @@ This is a curated list of resources for  teaching and learning news and media li
 - [News & Media Literacy Curriculum Resources](https://www.commonsense.org/education/toolkit/news-and-media-literacy) (Common Sense): learning resources and classroom activities for Grades K-2, 3-5, 6-8 and 9-12.
 
 - [NewsGuard News Literacy Resources](https://www.newsguardtech.com/news-literacy/)
+
+- [Novedades del área de Educación](https://chequeado.com/educacion/) (Chequeado)
 
 - [Slowing the infodemic: How to Spot COVID-19 misinformation](https://namle.net/wp-content/uploads/2020/05/NAMLE-ReutersClassroomGuide.pdf) (NAMLE)
 
