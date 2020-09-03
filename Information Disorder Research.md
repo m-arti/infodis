@@ -190,7 +190,7 @@ Arkaitz Zubiaga, Ahmet Aker, Kalina Bontcheva, Maria Liakata, and Rob Procter. 2
   - **Data extraction / retrieval**
       - [GetOldTweets3](https://github.com/Mottl/GetOldTweets3): a Python 3 library and a corresponding command line utility for accessing old tweets. [`Github`](https://github.com/Mottl/GetOldTweets3) [`PyPI`](https://pypi.org/project/GetOldTweets3/)
       - [Hydrator](https://github.com/DocNow/hydrator): turn Tweet IDs into Twitter JSON & CSV from your desktop. [`Github`](https://github.com/DocNow/hydrator)
-      - Twarc: a command line tool and Python library for archiving Twitter JSON. [`Github`](https://github.com/DocNow/twarc) [`PyPI`](https://pypi.org/project/twarc/)
+      - [Twarc](https://github.com/DocNow/twarc): a command line tool and Python library for archiving Twitter JSON. [`Github`](https://github.com/DocNow/twarc) [`PyPI`](https://pypi.org/project/twarc/)
       - [TwitterMySQL](https://github.com/dlatk/TwitterMySQL): pull tweets from the Twitter API and insert them into MySQL. [`Github`](https://github.com/dlatk/TwitterMySQL)
 
 
