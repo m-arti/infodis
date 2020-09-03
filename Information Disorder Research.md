@@ -1,4 +1,4 @@
-# Information Disorder Research: Datasets &amp; Resources
+# Information Disorder Research: Datasets &amp; Tools
 This is a curated list of resources for research on various kinds of information disorder, such as fake news, rumours and satire.
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
@@ -187,6 +187,11 @@ Arkaitz Zubiaga, Ahmet Aker, Kalina Bontcheva, Maria Liakata, and Rob Procter. 2
   - [spaCy](https://spacy.io/): industrial-strength natural language processing. [`Github`](https://github.com/explosion/spaCy) [`PyPI`](https://pypi.org/project/spacy/)
   - [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/): linguistic annotations, token and sentence boundaries, PoS, named entities, numeric and time values, dependency and constituency parses, coreference, sentiment, quote attributions, and relations. [`Github`](https://github.com/stanfordnlp/CoreNLP)
   - [The News Landscape Toolkit (NELA)](http://nelatoolkit.science/): toolkit for assessing news articles and sources. [`Github`](https://github.com/BenjaminDHorne/The-NELA-Toolkit)
+  - **Data extraction / retrieval**
+      - [GetOldTweets3](https://github.com/Mottl/GetOldTweets3): a Python 3 library and a corresponding command line utility for accessing old tweets. [`Github`](https://github.com/Mottl/GetOldTweets3) [`PyPI`](https://pypi.org/project/GetOldTweets3/)
+      - [Hydrator](https://github.com/DocNow/hydrator): turn Tweet IDs into Twitter JSON & CSV from your desktop. [`Github`](https://github.com/DocNow/hydrator)
+      - Twarc: a command line tool and Python library for archiving Twitter JSON. [`Github`](https://github.com/DocNow/twarc) [`PyPI`](https://pypi.org/project/twarc/)
+      - [TwitterMySQL](https://github.com/dlatk/TwitterMySQL): pull tweets from the Twitter API and insert them into MySQL. [`Github`](https://github.com/dlatk/TwitterMySQL)
 
 
 ## <a name="Tutorials"></a> 📝 Tutorials
