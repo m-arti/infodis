@@ -37,6 +37,7 @@ This is a curated list of resources for  teaching and learning news and media li
 - [Arizona State University News Co/Lab](https://newscollab.org/)
 - [Better News](https://betternews.org/) (American Press Institute & Knight-Lenfest Newsroom Initiative)
 - [Center for News Literacy @ Stony Brook Uni. Sch. of Journalism](https://www.centerfornewsliteracy.org/)
+- [Center for Countering Digital Hate](https://www.counterhate.co.uk/) (UK)
 - [Co-Inform](https://coinform.eu/)
 - [Common Sense Education](https://www.commonsense.org/education/)
 - [Facebook Journalism Project](https://www.facebook.com/journalismproject)
@@ -99,6 +100,7 @@ This is a curated list of resources for  teaching and learning news and media li
   - Hands-on Fact-checking: A Short Course, [Poynter](https://www.poynter.org/shop/fact-checking/handson-factchecking/) (Jane Elizabeth & Alexios Mantzarlis) | `Free`
   - Making Sense of the News: News Literacy Lessons for Digital Citizens, [Coursera](https://www.coursera.org/learn/news-literacy) (Masato Kajimoto & others | University of Hong Kong & SUNY)
   - News Literacy Primer: How to Evaluate Information, [Poynter](https://www.poynter.org/shop/self-directed-course/news-literacy-primer/) (Pam Hogle)
+  - Practical Data Ethics, [Fast.ai](https://ethics.fast.ai/) | `Free`
   - Verification, [Google News Initiative](https://newsinitiative.withgoogle.com/training/course/verification) | `Free`
 
 
