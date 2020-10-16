@@ -149,7 +149,7 @@ Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disor
 
 - Francesco Pierri and Stefano Ceri. 2019. False News On Social Media: A Data-Driven Survey. arXiv:1902.07539. [`PDF`](https://arxiv.org/pdf/1902.07539.pdf)
 
-- Reuters Institute. 2018. Reuters Institute Digital News Report 2018. [`PDF`](http://media.digitalnewsreport.org/wp-content/uploads/2018/06/digital-news-report-2018.pdf
+- Reuters Institute. 2018. Reuters Institute Digital News Report 2018. [`PDF`](http://media.digitalnewsreport.org/wp-content/uploads/2018/06/digital-news-report-2018.pdf)
 
   - Richard Fletcher. n.d. Misinformation and Disinformation Unpacked [`Web`](http://www.digitalnewsreport.org/survey/2018/misinformation-and-disinformation-unpacked/)
   
