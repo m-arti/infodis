@@ -181,18 +181,21 @@ Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disor
 
 Note: Most of the libraries listed here are written Python; some of them may exist in other languages too.
 
-- [Gensim](https://radimrehurek.com/gensim/): topic modelling, document indexing and similarity retrieval with large corpora. [`Github`](https://github.com/RaRe-Technologies/gensim) [`PyPI`](https://pypi.org/project/gensim/)
-- [Newspaper3k](https://newspaper.readthedocs.io/en/latest/): article scraping and curation. [`Github`](https://github.com/codelucas/newspaper) [`PyPI`](https://pypi.org/project/newspaper/)
-- [NLTK](http://www.nltk.org/): natural language processing toolkit. [`Github`](https://github.com/nltk/nltk) [`PyPI`](https://pypi.org/project/nltk/)
-- [Readability](https://github.com/andreasvc/readability/): traditional readability measures based on simple surface characteristics. [`Github`](https://github.com/andreasvc/readability/) [`PyPI`](https://pypi.org/project/readability/)
-- [Scikit-learn](https://scikit-learn.org/stable/): modules for machine learning and data mining. [`Github`](https://github.com/scikit-learn/scikit-learn) [`PyPI`](https://pypi.org/project/scikit-learn/)
-- [spaCy](https://spacy.io/): industrial-strength natural language processing. [`Github`](https://github.com/explosion/spaCy) [`PyPI`](https://pypi.org/project/spacy/)
-- [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/): linguistic annotations, token and sentence boundaries, PoS, named entities, numeric and time values, dependency and constituency parses, coreference, sentiment, quote attributions, and relations. [`Github`](https://github.com/stanfordnlp/CoreNLP)
-- [The News Landscape Toolkit (NELA)](http://nelatoolkit.science/): toolkit for assessing news articles and sources. [`Github`](https://github.com/BenjaminDHorne/The-NELA-Toolkit)
+- **General NLP**
+  - [Gensim](https://radimrehurek.com/gensim/): topic modelling, document indexing and similarity retrieval with large corpora. [`Github`](https://github.com/RaRe-Technologies/gensim) [`PyPI`](https://pypi.org/project/gensim/)
+  - [Newspaper3k](https://newspaper.readthedocs.io/en/latest/): article scraping and curation. [`Github`](https://github.com/codelucas/newspaper) [`PyPI`](https://pypi.org/project/newspaper/)
+  - [NLTK](http://www.nltk.org/): natural language processing toolkit. [`Github`](https://github.com/nltk/nltk) [`PyPI`](https://pypi.org/project/nltk/)
+  - [Readability](https://github.com/andreasvc/readability/): traditional readability measures based on simple surface characteristics. [`Github`](https://github.com/andreasvc/readability/) [`PyPI`](https://pypi.org/project/readability/)
+  - [Scikit-learn](https://scikit-learn.org/stable/): modules for machine learning and data mining. [`Github`](https://github.com/scikit-learn/scikit-learn) [`PyPI`](https://pypi.org/project/scikit-learn/)
+  - [spaCy](https://spacy.io/): industrial-strength natural language processing. [`Github`](https://github.com/explosion/spaCy) [`PyPI`](https://pypi.org/project/spacy/)
+  - [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/): linguistic annotations, token and sentence boundaries, PoS, named entities, numeric and time values, dependency and constituency parses, coreference, sentiment, quote attributions, and relations. [`Github`](https://github.com/stanfordnlp/CoreNLP)
+  - [The News Landscape Toolkit (NELA)](http://nelatoolkit.science/): toolkit for assessing news articles and sources. [`Github`](https://github.com/BenjaminDHorne/The-NELA-Toolkit)
+
 - **Data extraction / retrieval**
   - [GetOldTweets3](https://github.com/Mottl/GetOldTweets3): a Python 3 library and a corresponding command line utility for accessing old tweets. [`Github`](https://github.com/Mottl/GetOldTweets3) [`PyPI`](https://pypi.org/project/GetOldTweets3/)
   - [Hydrator](https://github.com/DocNow/hydrator): turn Tweet IDs into Twitter JSON & CSV from your desktop. [`Github`](https://github.com/DocNow/hydrator)
-  - [Pattern](https://github.com/clips/pattern/wiki): web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization. [`Github`](https://github.com/clips/pattern)  
+  - [Pattern](https://github.com/clips/pattern/wiki): web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization. [`Github`](https://github.com/clips/pattern)
+  - [Scrapy](https://scrapy.org/): a framework for speedily extracting data from websites. [`Github`](https://github.com/scrapy/scrapy) [`PyPI`](https://pypi.org/project/Scrapy/) 
   - [Twarc](https://github.com/DocNow/twarc): a command line tool and Python library for archiving Twitter JSON. [`Github`](https://github.com/DocNow/twarc) [`PyPI`](https://pypi.org/project/twarc/)
   - [TwitterMySQL](https://github.com/dlatk/TwitterMySQL): pull tweets from the Twitter API and insert them into MySQL. [`Github`](https://github.com/dlatk/TwitterMySQL)
 
