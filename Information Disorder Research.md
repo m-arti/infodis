@@ -16,11 +16,15 @@ This is a curated list of resources for research on various kinds of information
 
 
 ## <a name="Conferences-and-Workshops"></a> 📅 Conferences and Workshops
-David Lazer, Matthew Baum, Nir Grinberg, Lisa Friedland, Kenneth Joseph, Will Hobbs, and Carolina Mattsson. May 2017 (Conference held February 17-18, 2017). Combating Fake News: An Agenda for Research and Action. Cambridge, MA, USA. [`Schedule`](https://shorensteincenter.org/wp-content/uploads/2017/02/Fake-News-Conference_Final-Program.pdf) [`PDF`](https://pdfs.semanticscholar.org/6db0/f7c6023efae688253dc95617e11108547e7e.pdf) [`Web`](https://shorensteincenter.org/combating-fake-news-agenda-for-research/)
 
-Understanding and Addressing the Disinformation Ecosystem. Annenberg School for Communication. December 2017. (Workshop held December 15-16, 2017). Philadelphia, PA, USA. [`PDF`](https://firstdraftnews.org/wp-content/uploads/2018/03/The-Disinformation-Ecosystem-20180207-v2.pdf?utm_content=buffer2cbef&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+**Conferences**
+- David Lazer, Matthew Baum, Nir Grinberg, Lisa Friedland, Kenneth Joseph, Will Hobbs, and Carolina Mattsson. May 2017 (Conference held February 17-18, 2017). Combating Fake News: An Agenda for Research and Action. Cambridge, MA, USA. [`Schedule`](https://shorensteincenter.org/wp-content/uploads/2017/02/Fake-News-Conference_Final-Program.pdf) [`PDF`](https://pdfs.semanticscholar.org/6db0/f7c6023efae688253dc95617e11108547e7e.pdf) [`Web`](https://shorensteincenter.org/combating-fake-news-agenda-for-research/)
 
-**Programmes, Fellowships and Summer Schools**
+- Truth and Trust Online. 16-17 October 2020. Virtual. [`CFP`](https://truthandtrustonline.com/call-for-papers/) [`Schedule`](https://truthandtrustonline.com/programme/) [`2019 Edition`](https://truthandtrustonline.com/2019-home/)
+
+- Understanding and Addressing the Disinformation Ecosystem. Annenberg School for Communication. December 2017. (Workshop held December 15-16, 2017). Philadelphia, PA, USA. [`PDF`](https://firstdraftnews.org/wp-content/uploads/2018/03/The-Disinformation-Ecosystem-20180207-v2.pdf?utm_content=buffer2cbef&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+**Other Programmes, Fellowships and Summer Schools**
 - [GATE Training Course](https://gate.ac.uk/family/training.html) @ Uni. of Sheffield | 5 Days
 - [Google News Initiative Fellowship](https://newsinitiative.withgoogle.com/training/fellowship)
 - [Summer Doctoral Programme](https://www.oii.ox.ac.uk/study/summer-doctoral-programme/) @ Oxford Internet Institute, Uni. of Oxford | 2 Weeks
@@ -80,6 +84,7 @@ Understanding and Addressing the Disinformation Ecosystem. Annenberg School for 
 - [Media Bias / Fact Check](https://mediabiasfactcheck.com/)
 - [NewsCheck](https://www.newscheck.com/)
 - [our.news](https://our.news/)
+- [People's Check](https://peoplescheck.org/)
 - [PolitiFact](https://www.politifact.com/)
 - [Poynter Fact-checking](https://www.poynter.org/channels/fact-checking/)
 - [Snopes](https://www.snopes.com/)
