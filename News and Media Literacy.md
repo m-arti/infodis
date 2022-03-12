@@ -39,7 +39,9 @@ This is a curated list of resources for  teaching and learning news and media li
 - [Center for News Literacy @ Stony Brook Uni. Sch. of Journalism](https://www.centerfornewsliteracy.org/)
 - [Center for Countering Digital Hate](https://www.counterhate.co.uk/) (UK)
 - [Co-Inform](https://coinform.eu/)
+- [Coalition for Content Provenance and Authenticity (C2PA)](https://c2pa.org/)
 - [Common Sense Education](https://www.commonsense.org/education/)
+- [Content Authenticity Initiative (CAI)](https://contentauthenticity.org/)
 - [Facebook Journalism Project](https://www.facebook.com/journalismproject)
 - [Google News Initiative](https://newsinitiative.withgoogle.com/)
 - [National Association for Media Literacy Education (NAMLE)](https://namle.net/about/) (US)
@@ -47,6 +49,7 @@ This is a curated list of resources for  teaching and learning news and media li
 - [National Literacy Trust](https://literacytrust.org.uk/) (UK)
 - [News Integrity Initiative @ the CUNY Newmark J-School](https://www.journalism.cuny.edu/centers/tow-knight-center-entrepreneurial-journalism/news-integrity-initiative/)
 - [News Literacy Project](https://newslit.org/)
+- [Project Origin](https://www.originproject.info/)
 
 
 ## <a name="Learning-and-Teaching-Resources"></a> 📝 Learning and Teaching Resources
