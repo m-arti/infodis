@@ -50,6 +50,7 @@ This is a curated list of resources for  teaching and learning news and media li
 - [News Integrity Initiative @ the CUNY Newmark J-School](https://www.journalism.cuny.edu/centers/tow-knight-center-entrepreneurial-journalism/news-integrity-initiative/)
 - [News Literacy Project](https://newslit.org/)
 - [Project Origin](https://www.originproject.info/)
+- [Social Science One](https://socialscience.one/)
 
 
 ## <a name="Learning-and-Teaching-Resources"></a> 📝 Learning and Teaching Resources
