@@ -6,13 +6,14 @@ This is a curated list of resources for research on various kinds of information
 
 ## Contents
 1. [📅 Conferences and Workshops](#Conferences-and-Workshops)
-2. [📁 Datasets](#Datasets)
-3. [✅ Fact and Veracity Checking](#Fact-and-Veracity-Checking)
-4. [🗂 Glossaries](#Glossaries)
-5. [🏢 Research Labs](#Research-Labs-Partnerships)
-6. [📄 Surveys and Reports](#Surveys-and-Reports)
-7. [🔎 Research Tools](#Research-Tools)
-8. [📝 Tutorials](#Tutorials)
+2. [📔 Journals](#Journals)
+3. [📁 Datasets](#Datasets)
+4. [✅ Fact and Veracity Checking](#Fact-and-Veracity-Checking)
+5. [🗂 Glossaries](#Glossaries)
+6. [🏢 Research Labs](#Research-Labs-Partnerships)
+7. [📄 Surveys and Reports](#Surveys-and-Reports)
+8. [🔎 Research Tools](#Research-Tools)
+9. [📝 Tutorials](#Tutorials)
 
 
 ## <a name="Conferences-and-Workshops"></a> 📅 Conferences and Workshops
@@ -31,6 +32,10 @@ This is a curated list of resources for research on various kinds of information
 
 **Workshops**
 - [International Workshop on News Recommendation and Analytics (INRA)](http://research.idi.ntnu.no/inra)
+
+
+## <a name="Journals"></a> 📔 Journals
+- [The Harvard Kennedy School Misinformation Review](https://misinforeview.hks.harvard.edu/)
 
 
 ## <a name="Datasets"></a> 📁 Datasets
