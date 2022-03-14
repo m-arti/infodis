@@ -1,10 +1,12 @@
 # InfoDis
-This is  continuously updated repository which contains resources forlearning, teaching and research on Information Disorder.
-The aim of creating it is to make it easier for researchers, learners, teachers and the general public to find useful information on information disorder.
+This is a continuously updated repository which contains resources for learning, teaching and researching Information Disorder.
+The aim is to make it easier for researchers, learners, teachers and everyone to find useful information on mis- and disinformation, from policy to everyday detection.
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 The resources are categorised as:
+ - [Misinformation Policy](https://github.com/m-arti/infodis/blob/main/Misinformation%20Policy.md) \
+  Resources for understanding global policies around mis- and disinformation.
  - [Information Disorder Research](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Research.md) \
   Resources for academic research:
     - 📅 [Conferences and Workshops](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Research.md#Conferences-and-Workshops)
