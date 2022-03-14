@@ -122,6 +122,7 @@ Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disor
 ## <a name="Research-Labs-Partnerships"></a> 🏢 Research Labs & Partnerships
 - [Data & Society](https://datasociety.net/)
 - [Public Data Lab](https://www.publicdatalab.org/) [`Github`](https://github.com/PublicDataLab/)
+- [European Digital Media Observatory](https://edmo.eu/)
 - **At universities**
   - [Center for News Literacy](https://www.centerfornewsliteracy.org/) @ Stony Brook Uni. Sch. of Journalism
   - [Discourse Processing Lab](http://www.sfu.ca/discourse-lab.html) @ Simon Fraser University [`Github`](https://github.com/sfu-discourse-lab)
