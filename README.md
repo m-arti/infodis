@@ -9,9 +9,10 @@ The resources are categorised as:
   Resources for academic research:
     - 📅 [Conferences and Workshops](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Research.md#Conferences-and-Workshops)
     - 📔 [Journals](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Research.md#Journals)
-    - ✅ [Fact and Veracity Checking](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Research.md#Fact-and-Veracity-Checking)
     - 📁 [Datasets](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Research.md#Datasets)
+    - ✅ [Fact and Veracity Checking](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Research.md#Fact-and-Veracity-Checking)
     - 🗂 [Glossaries](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Research.md#Glossaries)
+    - 🏢 [Research Labs and Partnerships](https://github.com/m-arti/infodis/blob/main/Information%20Disorder%20Research.md#Research-Labs-Partnerships)
     - 📄 [Surveys and Reports](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Research.md#Surveys-and-Reports)
     - 🔎 [Research Tools](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Research.md#Research-Tools)
     - 📝 [Tutorials](https://github.com/m-arti/infodis/blob/master/Information%20Disorder%20Research.md#Tutorials)
