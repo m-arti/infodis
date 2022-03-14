@@ -182,11 +182,11 @@ Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disor
 
 **APIs**
 - [Perspective API](https://www.perspectiveapi.com/#/home): machine learning models which score the perceived impact (based on toxicity, insult, profanity, etc.) a comment might have on a conversation. [`Github`](https://github.com/conversationai/perspectiveapi)
-- [Google Fact Check Tools API](https://developers.google.com/fact-check/tools/api/), Google
+- [Google Fact Check Tools API](https://developers.google.com/fact-check/tools/api/) by Google
 
 **Libraries**
 
-Note: Most of the libraries listed here are written Python; some of them may exist in other languages too.
+Note: Most of the libraries listed here are written in Python; some may exist in other languages too.
 
 - **General NLP**
   - [Gensim](https://radimrehurek.com/gensim/): topic modelling, document indexing and similarity retrieval with large corpora. [`Github`](https://github.com/RaRe-Technologies/gensim) [`PyPI`](https://pypi.org/project/gensim/)
@@ -212,6 +212,9 @@ Note: Most of the libraries listed here are written Python; some of them may exi
   - [NetworkX](http://networkx.github.io/): creation, manipulation, and study of the structure, dynamics, and functions of complex networks. [`Github`](https://github.com/networkx/networkx) [`PyPI`](https://pypi.org/project/networkx/)
   - [Plotly](https://plotly.com/): interactive charts and maps for Python, R, and JavaScript. [`Github`](https://github.com/plotly) [`PyPI`](https://pypi.org/project/plotly/)
   - [Scattertext](https://github.com/JasonKessler/scattertext): beautiful visualizations of how language differs among document types. [`Github`](https://github.com/JasonKessler/scattertext) [`PyPI`](https://pypi.org/project/scattertext/)
+
+- **Others**
+  - [CrowdTangle](https://www.crowdtangle.com)
 
 
 ## <a name="Tutorials"></a> 📝 Tutorials
