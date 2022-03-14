@@ -64,7 +64,6 @@ This is a curated list of resources for research on various kinds of information
 
 ## <a name="Fact-and-Veracity-Checking"></a> ✅ Fact and Veracity Checking
 - [Africa Check](https://africacheck.org/)
-- [Briefr](https://beta.briefr.cc/briefs/all/)
 - [Chequeado](https://chequeado.com/)
 - [Dubawa](https://factcheckhub.com/)
 - [Emergent](http://www.emergent.info/)
@@ -91,6 +90,8 @@ This is a curated list of resources for research on various kinds of information
 - **Annotation and Analysis**
   - [FrameTrail](https://frametrail.org/)
   - [Hypothesis](https://web.hypothes.is/)
+- **External Curated Lists**
+  - [Fact checking initiatives in the EU (and in the UK), by the European Digital Media Observatory](https://edmo.eu/fact-checking-activities/)
 
 
 ## <a name="Glossaries"></a> 🗂 Glossaries
@@ -112,7 +113,7 @@ Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disor
 - **Companies**
   - [Astroscreen](https://www.astroscreen.com/), UK
   - [Blackbird.ai](https://www.blackbird.ai/), US
-  - [Crisp](https://www.crispthinking.com/), UK|US
+  - [Crisp](https://www.crispthinking.com/), UK | US
   - [Fabula.ai](https://web.archive.org/web/20190621033103/https://fabula.ai/), UK (Acquired by Twitter)
   - [Factmata](https://factmata.com/), UK
   - [Graphika](https://www.graphika.com/), US
