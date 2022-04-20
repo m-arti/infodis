@@ -165,6 +165,8 @@ This is a curated list of resources for  teaching and learning news and media li
   
 
 ## <a name="Tools"></a> 📱 Tools
+
+- [Web tools](https://www.rand.org/research/projects/truth-decay/fighting-disinformation.html) curated by Rand Corporation
 - **Browser plugins**
     - [NewsGuard](https://www.newsguardtech.com/) [`Chrome`](https://chrome.google.com/webstore/detail/newsguard/hcgajcpgaalgpeholhdooeddllhedegi) [`Firefox`](https://addons.mozilla.org/en-US/firefox/addon/newsguard/)
     - [Trusted News](https://trusted-news.com/) [`Chrome`](https://chrome.google.com/webstore/detail/trusted-news/nkkghpncidknplmlkgemdoekpckjmlok)
