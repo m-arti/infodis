@@ -23,6 +23,7 @@ This is a curated list of resources for  teaching and learning news and media li
 - [Calling Bullshit](https://callingbullshit.org/), Carl T. Bergstrom & Jevin D. West (Penguin Random House, 2020)
 - [Deciding What’s True: The Rise of Political Fact-Checking in American Journalism](https://cup.columbia.edu/book/deciding-whats-true/9780231542227), Lucas Graves (Columbia University Press, 2016)
 - [Internet Literacy Handbook](https://rm.coe.int/internet-literacy-handbook/1680766c85), Council of Europe (2017) [`Read`](https://rm.coe.int/internet-literacy-handbook/1680766c85)
+- [The News: A User’s Manual](https://www.alaindebotton.com/news-users-manual), Alain de Botton (Pantheon, 2014)
 - [The Trouble with Reality: A Rumination on Moral Panic in Our Time](https://www.workman.com/products/the-trouble-with-reality-1), Brooke Gladstone (Workman Publishing, 2017)
 - [Weaponized Lies: How to Think Critically in the Post-Truth Era](https://www.penguinrandomhouse.com/books/558493/weaponized-lies-by-daniel-j-levitin/), Daniel J. Levitin (Penguin Random House, 2017)
 - [Web Literacy for Student Fact-Checkers](https://webliteracy.pressbooks.com/), Michael A. Caulfield (Pressbooks, n.d.) [`Read`](https://webliteracy.pressbooks.com/front-matter/web-strategies-for-student-fact-checkers/)
