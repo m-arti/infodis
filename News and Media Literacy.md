@@ -169,6 +169,7 @@ This is a curated list of resources for  teaching and learning news and media li
 ## <a name="Tools"></a> 📱 Tools
 
 - [Web tools](https://www.rand.org/research/projects/truth-decay/fighting-disinformation.html) curated by Rand Corporation
+- [Helium](https://heliumtrades.com/mcp-page/): AI-powered media bias analysis across 5,000+ sources and 15+ dimensions (political lean, emotionality, manipulativeness, factfulness). Analyze any article URL or compare source biases.
 - **Browser plugins**
     - [NewsGuard](https://www.newsguardtech.com/) [`Chrome`](https://chrome.google.com/webstore/detail/newsguard/hcgajcpgaalgpeholhdooeddllhedegi) [`Firefox`](https://addons.mozilla.org/en-US/firefox/addon/newsguard/)
     - [Trusted News](https://trusted-news.com/) [`Chrome`](https://chrome.google.com/webstore/detail/trusted-news/nkkghpncidknplmlkgemdoekpckjmlok)

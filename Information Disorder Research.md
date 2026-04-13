@@ -187,6 +187,9 @@ Claire Wardle, Grace Greason, Joe Kerwin, and Nic Dias. 2018. *Information Disor
 - [Perspective API](https://www.perspectiveapi.com/#/home): machine learning models which score the perceived impact (based on toxicity, insult, profanity, etc.) a comment might have on a conversation. [`Github`](https://github.com/conversationai/perspectiveapi)
 - [Google Fact Check Tools API](https://developers.google.com/fact-check/tools/api/) by Google
 
+**Web applications**
+- [Helium](https://heliumtrades.com/mcp-page/): AI-powered media bias analysis across 5,000+ sources and 15+ dimensions (political lean, emotionality, manipulativeness, factfulness). Analyze any article URL or compare source biases.
+
 **Libraries**
 
 Note: Most of the libraries listed here are written in Python; some may exist in other languages too.
