@@ -114,6 +114,7 @@ This is a curated list of resources for  teaching and learning news and media li
   - [Daily Quizzes to Train Your Verification Skills](https://www.bellingcat.com/resources/2017/11/13/daily-verification-quizzes) (Bellingcat)
   - [First Draft Observation Challenge](https://firstdraftnews.org/en/education/curriculum-resource/5-observation-challenge/) (First Draft)
   - [First Draft Geolocation Challenge](https://firstdraftnews.org/en/education/curriculum-resource/test-your-verification-skills-with-our-geolocation-challenge/) (First Draft)
+  - [Albis](https://www.albis.news/media-literacy?utm_source=github&utm_medium=awesome-list&utm_campaign=infodis_media_literacy) - a free news-discovery exercise for comparing what different outlets cover, miss, and frame differently; intended as a media-literacy discussion prompt, not a fact-checking authority.
   - [The News Hero on Facebook](https://apps.facebook.com/thenewshero) (The News Hero)
   - [The Perils of Perception](https://perils.ipsos.com/index.html) (Ipsos)
 
