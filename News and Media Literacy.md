@@ -9,6 +9,7 @@ This is a curated list of resources for  teaching and learning news and media li
 2. [📅 Events](#Events)
 3. [💡 Initiatives and Projects](#Initiatives-Projects)
 4. [📝 Learning and Teaching Resources](#Learning-and-Teaching-Resources)
+- [Hollowvane](https://hollowvane.com/): free explainers on how outrage / misinformation-shaped content is engineered online, with practical checks for readers.
 5. [✉️ Newletters](#Newsletters)
 6. [🎙 Podcasts and Talk Shows](#Podcasts-Talk-Shows)
 7. [📜 Policies](#Policies)
